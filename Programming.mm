@@ -5185,6 +5185,37 @@ df.setRoundingMode(</font><font color="rgb(43, 145, 175)" face="Consolas, Menlo,
 </html>
 </richcontent>
 </node>
+<node CREATED="1457780915629" ID="ID_1843185796" LINK="http://stackoverflow.com/questions/29887722/error-rendering-problems-the-following-classes-could-not-be-found-android-suppo" MODIFIED="1457782868504" TEXT="Dealing with rendering problem">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Rendering problems when trying to change application theme:
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - Sudoz answer
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      or
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - install all android SDK version from settings and try rendering on these (API 21 - Material.Light + delete &quot;tools:showIn=@layout/activity_main&quot; from the main xml file)
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 </node>
 </map>

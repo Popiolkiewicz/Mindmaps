@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1434292134477" ID="ID_1806428932" MODIFIED="1441899600976" STYLE="bubble" TEXT="Programming">
+<node CREATED="1434292134477" ID="ID_1806428932" MODIFIED="1457778876803" STYLE="bubble" TEXT="Programming">
 <edge STYLE="sharp_bezier" WIDTH="thin"/>
 <font NAME="Dialog" SIZE="19"/>
 <icon BUILTIN="male1"/>
@@ -5133,6 +5133,58 @@ df.setRoundingMode(</font><font color="rgb(43, 145, 175)" face="Consolas, Menlo,
 </node>
 <node COLOR="#0033ff" CREATED="1440621504808" HGAP="25" ID="ID_1293959028" MODIFIED="1440711484648" POSITION="right" TEXT="CMD" VSHIFT="-2">
 <icon BUILTIN="full-0"/>
+</node>
+<node CREATED="1457778881070" ID="ID_198167503" MODIFIED="1457778896412" POSITION="right" TEXT="Android">
+<icon BUILTIN="go"/>
+<node CREATED="1457778901614" ID="ID_1478773609" MODIFIED="1457779435878" TEXT="Setting up">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      -download and install java sdk
+    </p>
+    <p>
+      -download and install android studio
+    </p>
+    <p>
+      -run as an administrator -&gt; SDK Manager -&gt; Launch Standalone SDK Manager -&gt; Install Packages
+    </p>
+    <p>
+      --Install Intel x86 Emulator Accelerator (HAXM installer)
+    </p>
+    <p>
+      - close android studio and run once again as an admin
+    </p>
+    <p>
+      - Start a new Android Studio project
+    </p>
+    <p>
+      -- Set up Minimum SDK to API that can run on 100% of devices
+    </p>
+    <p>
+      -- Choose blank activity
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      -File -&gt; Project Strukture -&gt; choose SDK's paths
+    </p>
+    <p>
+      -Switch apptheme (optional)
+    </p>
+    <p>
+      -AVD Manager -&gt; Build one virtual device (might take a few minutes)
+    </p>
+    <p>
+      -Run application from main android studio page (green arrow)
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 </node>
 </map>

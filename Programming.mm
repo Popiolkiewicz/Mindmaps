@@ -5182,8 +5182,7 @@ df.setRoundingMode(</font><font color="rgb(43, 145, 175)" face="Consolas, Menlo,
       -Run application from main android studio page (green arrow)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1457780915629" ID="ID_1843185796" LINK="http://stackoverflow.com/questions/29887722/error-rendering-problems-the-following-classes-could-not-be-found-android-suppo" MODIFIED="1457863883929" TEXT="Dealing with rendering problem">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -5215,6 +5214,7 @@ df.setRoundingMode(</font><font color="rgb(43, 145, 175)" face="Consolas, Menlo,
 </html></richcontent>
 </node>
 <node CREATED="1457863910673" ID="ID_1279443303" LINK="https://www.youtube.com/watch?v=XWk5hKmgAmE" MODIFIED="1457863923274" TEXT="Creating custom AVD"/>
+<node CREATED="1457893712032" ID="ID_1128145139" LINK="http://eclipsecolorthemes.org/?view=theme&amp;id=24587" MODIFIED="1457893722398" TEXT="Rainbow Theme"/>
 </node>
 <node CREATED="1457864922031" ID="ID_1424712455" MODIFIED="1457869746814" TEXT="Basics of android studio project">
 <richcontent TYPE="NOTE"><html>
@@ -5265,8 +5265,7 @@ df.setRoundingMode(</font><font color="rgb(43, 145, 175)" face="Consolas, Menlo,
       we can store string constants here and use these in xml files
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1457867087633" ID="ID_1544927434" LINK="https://resources.jetbrains.com/assets/products/intellij-idea/IntelliJIDEA_ReferenceCard.pdf" MODIFIED="1457867117361" TEXT="Android Studio Shortcuts">
 <richcontent TYPE="NOTE"><html>
@@ -5278,8 +5277,7 @@ df.setRoundingMode(</font><font color="rgb(43, 145, 175)" face="Consolas, Menlo,
       Double shift - searching file.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>

@@ -5136,7 +5136,7 @@ df.setRoundingMode(</font><font color="rgb(43, 145, 175)" face="Consolas, Menlo,
 </node>
 <node CREATED="1457778881070" ID="ID_198167503" MODIFIED="1457778896412" POSITION="right" TEXT="Android">
 <icon BUILTIN="go"/>
-<node CREATED="1457778901614" ID="ID_1478773609" MODIFIED="1457779435878" TEXT="Setting up">
+<node CREATED="1457778901614" ID="ID_1478773609" MODIFIED="1457863908040" TEXT="Setting up">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -5184,8 +5184,7 @@ df.setRoundingMode(</font><font color="rgb(43, 145, 175)" face="Consolas, Menlo,
   </body>
 </html>
 </richcontent>
-</node>
-<node CREATED="1457780915629" ID="ID_1843185796" LINK="http://stackoverflow.com/questions/29887722/error-rendering-problems-the-following-classes-could-not-be-found-android-suppo" MODIFIED="1457782868504" TEXT="Dealing with rendering problem">
+<node CREATED="1457780915629" ID="ID_1843185796" LINK="http://stackoverflow.com/questions/29887722/error-rendering-problems-the-following-classes-could-not-be-found-android-suppo" MODIFIED="1457863883929" TEXT="Dealing with rendering problem">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -5211,6 +5210,63 @@ df.setRoundingMode(</font><font color="rgb(43, 145, 175)" face="Consolas, Menlo,
     </p>
     <p>
       - install all android SDK version from settings and try rendering on these (API 21 - Material.Light + delete &quot;tools:showIn=@layout/activity_main&quot; from the main xml file)
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1457863910673" ID="ID_1279443303" LINK="https://www.youtube.com/watch?v=XWk5hKmgAmE" MODIFIED="1457863923274" TEXT="Creating custom AVD"/>
+</node>
+<node CREATED="1457864922031" ID="ID_1424712455" MODIFIED="1457867190798" TEXT="Basics of android studio project">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Every activity consists of dwo parts:
+    </p>
+    <p>
+      - view part (the xml file)
+    </p>
+    <p>
+      - brain part (java file)
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Two views of xml file:
+    </p>
+    <p>
+      -Design
+    </p>
+    <p>
+      -Text (here we are manipulating xml code to write a view)
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      AndroidManifest.xml:
+    </p>
+    <p>
+      -here we can add new activities
+    </p>
+    <p>
+      <i>&lt;category android:name=&quot;android.intent.category.LAUNCHER&quot; /&gt;</i>&#160; - APP STARTING POINT
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1457867087633" ID="ID_1544927434" LINK="https://resources.jetbrains.com/assets/products/intellij-idea/IntelliJIDEA_ReferenceCard.pdf" MODIFIED="1457867117361" TEXT="Android Studio Shortcuts">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Double shift - searching file.
     </p>
   </body>
 </html>

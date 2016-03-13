@@ -5216,7 +5216,7 @@ df.setRoundingMode(</font><font color="rgb(43, 145, 175)" face="Consolas, Menlo,
 </node>
 <node CREATED="1457863910673" ID="ID_1279443303" LINK="https://www.youtube.com/watch?v=XWk5hKmgAmE" MODIFIED="1457863923274" TEXT="Creating custom AVD"/>
 </node>
-<node CREATED="1457864922031" ID="ID_1424712455" MODIFIED="1457867190798" TEXT="Basics of android studio project">
+<node CREATED="1457864922031" ID="ID_1424712455" MODIFIED="1457869746814" TEXT="Basics of android studio project">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -5226,10 +5226,10 @@ df.setRoundingMode(</font><font color="rgb(43, 145, 175)" face="Consolas, Menlo,
       Every activity consists of dwo parts:
     </p>
     <p>
-      - view part (the xml file)
+      - view part (the xml file activity_main.xml)
     </p>
     <p>
-      - brain part (java file)
+      - brain part (java file MainActivity.java)
     </p>
     <p>
       
@@ -5254,6 +5254,15 @@ df.setRoundingMode(</font><font color="rgb(43, 145, 175)" face="Consolas, Menlo,
     </p>
     <p>
       <i>&lt;category android:name=&quot;android.intent.category.LAUNCHER&quot; /&gt;</i>&#160; - APP STARTING POINT
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      strings.xml
+    </p>
+    <p>
+      we can store string constants here and use these in xml files
     </p>
   </body>
 </html>

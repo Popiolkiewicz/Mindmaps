@@ -2303,11 +2303,11 @@ flanders.greet</pre>
 <icon BUILTIN="xmag"/>
 <node CREATED="1434317244840" ID="ID_379416978" LINK="https://www.youtube.com/watch?v=UqwGSo82cwU" MODIFIED="1434317681855" STYLE="fork" TEXT="Simple XML file tutorial"/>
 </node>
-<node BACKGROUND_COLOR="#ffffff" COLOR="#6699ff" CREATED="1434292763088" FOLDED="true" HGAP="27" ID="ID_401745119" MODIFIED="1457731584460" POSITION="right" STYLE="bubble" TEXT="Java" VSHIFT="1">
+<node BACKGROUND_COLOR="#ffffff" COLOR="#6699ff" CREATED="1434292763088" HGAP="27" ID="ID_401745119" MODIFIED="1457950162275" POSITION="right" STYLE="bubble" TEXT="Java" VSHIFT="1">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <icon BUILTIN="yes"/>
-<node CREATED="1434294061258" HGAP="50" ID="ID_1213403955" MODIFIED="1441899594032" STYLE="bubble" TEXT="Tools &amp; Frameworks" VSHIFT="84">
-<node CREATED="1434293064398" FOLDED="true" ID="ID_1027989976" LINK="#ID_772946411" MODIFIED="1442749749717" STYLE="bubble" TEXT="Hibernate">
+<node CREATED="1434294061258" FOLDED="true" HGAP="50" ID="ID_1213403955" MODIFIED="1457951895863" STYLE="bubble" TEXT="Tools &amp; Frameworks" VSHIFT="84">
+<node CREATED="1434293064398" FOLDED="true" ID="ID_1027989976" LINK="#ID_772946411" MODIFIED="1457951679047" STYLE="bubble" TEXT="Hibernate">
 <node CREATED="1434294489417" ID="ID_1853007648" MODIFIED="1434667275527" STYLE="bubble" TEXT="ORM (Object-Relational Mapping)"/>
 <node CREATED="1434313563299" ID="ID_38333587" LINK="https://www.youtube.com/watch?v=WCAeBerOxcg" MODIFIED="1434667275527" STYLE="bubble" TEXT="JPA a ORM"/>
 <node CREATED="1434313587180" ID="ID_1413700942" LINK="https://www.youtube.com/watch?v=uQrUs4ojU3k" MODIFIED="1442484957166" STYLE="bubble" TEXT="Konfiguracja projektu">
@@ -4117,7 +4117,7 @@ flanders.greet</pre>
 </node>
 </node>
 </node>
-<node CREATED="1434294250018" HGAP="50" ID="ID_1131414322" MODIFIED="1441899594036" STYLE="bubble" TEXT="Language" VSHIFT="4">
+<node CREATED="1434294250018" FOLDED="true" HGAP="50" ID="ID_1131414322" MODIFIED="1457951893919" STYLE="bubble" TEXT="Language" VSHIFT="4">
 <node CREATED="1435835532382" FOLDED="true" ID="ID_1369987359" MODIFIED="1442485066034" TEXT="Collections">
 <node CREATED="1435835541271" ID="ID_1770136742" MODIFIED="1435835544875" TEXT="Set"/>
 <node CREATED="1441617465149" ID="ID_1852926998" MODIFIED="1441887718317" TEXT="LinkedHashMap">
@@ -4278,7 +4278,7 @@ df.setRoundingMode(</font><font color="rgb(43, 145, 175)" face="Consolas, Menlo,
 <node CREATED="1441896521987" ID="ID_1977199696" MODIFIED="1441896525966" TEXT="java.applet"/>
 <node CREATED="1441895726458" ID="ID_195964123" MODIFIED="1441895900694" TEXT="javax.servlet"/>
 </node>
-<node CREATED="1441899511911" FOLDED="true" ID="ID_486827374" MODIFIED="1453370609885" TEXT="Threads">
+<node CREATED="1441899511911" FOLDED="true" ID="ID_486827374" MODIFIED="1457950179065" TEXT="Threads">
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_486827374" ENDARROW="Default" ENDINCLINATION="593;0;" ID="Arrow_ID_277916610" SOURCE="ID_1933203860" STARTARROW="None" STARTINCLINATION="593;0;"/>
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_486827374" ENDARROW="Default" ENDINCLINATION="580;0;" ID="Arrow_ID_1930106090" SOURCE="ID_934431560" STARTARROW="None" STARTINCLINATION="580;0;"/>
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_486827374" ENDARROW="Default" ENDINCLINATION="560;0;" ID="Arrow_ID_690642077" SOURCE="ID_357871369" STARTARROW="None" STARTINCLINATION="560;0;"/>
@@ -4578,7 +4578,7 @@ df.setRoundingMode(</font><font color="rgb(43, 145, 175)" face="Consolas, Menlo,
 </node>
 </node>
 </node>
-<node CREATED="1434303605644" HGAP="50" ID="ID_1379788006" MODIFIED="1441899594037" STYLE="bubble" TEXT="Application Servers" VSHIFT="4">
+<node CREATED="1434303605644" FOLDED="true" HGAP="50" ID="ID_1379788006" MODIFIED="1457951901672" STYLE="bubble" TEXT="Application Servers" VSHIFT="4">
 <node CREATED="1434303621044" ID="ID_481677124" MODIFIED="1435248506580" STYLE="bubble" TEXT="JBoss"/>
 <node CREATED="1434303626636" ID="ID_938921879" MODIFIED="1435248506580" STYLE="bubble" TEXT="TomCat">
 <node CREATED="1442589131894" ID="ID_1740696082" LINK="https://www.youtube.com/watch?v=b42CJ0r-1to" MODIFIED="1442591526245" TEXT="Config with Eclipse">
@@ -4587,8 +4587,28 @@ df.setRoundingMode(</font><font color="rgb(43, 145, 175)" face="Consolas, Menlo,
 </node>
 </node>
 <node CREATED="1434389815476" HGAP="51" ID="ID_800039866" MODIFIED="1441899594042" STYLE="bubble" TEXT="Enterprise Edition Components" VSHIFT="-88">
-<node CREATED="1434292999965" ID="ID_640035149" MODIFIED="1435248506580" STYLE="bubble" TEXT="EJB 3.0"/>
-<node CREATED="1442587751173" FOLDED="true" ID="ID_976313591" MODIFIED="1442749628876" TEXT="Servlets">
+<node CREATED="1434292999965" ID="ID_640035149" LINK="https://www.youtube.com/watch?v=JrDT-PYhG20&amp;list=PLA57AAEA149003B30" MODIFIED="1457951908639" STYLE="bubble" TEXT="EJB 3.0">
+<node CREATED="1457953133716" ID="ID_257104326" MODIFIED="1457956237796" TEXT="Local learning configuration">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      - create JBoss Server instance
+    </p>
+    <p>
+      - create new EJB project
+    </p>
+    <p>
+      - create new Application Client Module
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1442587751173" FOLDED="true" ID="ID_976313591" MODIFIED="1457950188118" TEXT="Servlets">
 <node CREATED="1442591461967" ID="ID_1798120500" LINK="#ID_1740696082" MODIFIED="1442593046320" TEXT="TomCat config">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -5267,7 +5287,7 @@ df.setRoundingMode(</font><font color="rgb(43, 145, 175)" face="Consolas, Menlo,
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1457867087633" ID="ID_1544927434" LINK="https://resources.jetbrains.com/assets/products/intellij-idea/IntelliJIDEA_ReferenceCard.pdf" MODIFIED="1457867117361" TEXT="Android Studio Shortcuts">
+<node CREATED="1457867087633" ID="ID_1544927434" LINK="https://resources.jetbrains.com/assets/products/intellij-idea/IntelliJIDEA_ReferenceCard.pdf" MODIFIED="1457950159160" TEXT="Android Studio Shortcuts">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -5277,7 +5297,8 @@ df.setRoundingMode(</font><font color="rgb(43, 145, 175)" face="Consolas, Menlo,
       Double shift - searching file.
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 </node>
 </node>

@@ -4578,8 +4578,28 @@ df.setRoundingMode(</font><font color="rgb(43, 145, 175)" face="Consolas, Menlo,
 </node>
 </node>
 </node>
-<node CREATED="1434303605644" FOLDED="true" HGAP="50" ID="ID_1379788006" MODIFIED="1457951901672" STYLE="bubble" TEXT="Application Servers" VSHIFT="4">
-<node CREATED="1434303621044" ID="ID_481677124" MODIFIED="1435248506580" STYLE="bubble" TEXT="JBoss"/>
+<node CREATED="1434303605644" HGAP="50" ID="ID_1379788006" MODIFIED="1457988135685" STYLE="bubble" TEXT="Application Servers" VSHIFT="4">
+<node CREATED="1434303621044" ID="ID_481677124" MODIFIED="1435248506580" STYLE="bubble" TEXT="JBoss">
+<node CREATED="1457988142632" ID="ID_1883006633" MODIFIED="1457988344294" TEXT="Configuring">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Windows7 cmd command:
+    </p>
+    <p>
+      netstat -a (listing all used ports)
+    </p>
+    <p>
+      in case we have to change used port
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
 <node CREATED="1434303626636" ID="ID_938921879" MODIFIED="1435248506580" STYLE="bubble" TEXT="TomCat">
 <node CREATED="1442589131894" ID="ID_1740696082" LINK="https://www.youtube.com/watch?v=b42CJ0r-1to" MODIFIED="1442591526245" TEXT="Config with Eclipse">
 <node CREATED="1442591404554" ID="ID_854479992" LINK="http://stackoverflow.com/questions/14392207/http-error-404-when-running-tomcat-from-eclipse" MODIFIED="1442749124317" TEXT="404 respones error in Eclipse"/>
@@ -4604,8 +4624,7 @@ df.setRoundingMode(</font><font color="rgb(43, 145, 175)" face="Consolas, Menlo,
       - create new Application Client Module
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1442587751173" FOLDED="true" ID="ID_976313591" MODIFIED="1457950188118" TEXT="Servlets">
@@ -5287,7 +5306,7 @@ df.setRoundingMode(</font><font color="rgb(43, 145, 175)" face="Consolas, Menlo,
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1457867087633" ID="ID_1544927434" LINK="https://resources.jetbrains.com/assets/products/intellij-idea/IntelliJIDEA_ReferenceCard.pdf" MODIFIED="1457950159160" TEXT="Android Studio Shortcuts">
+<node CREATED="1457867087633" ID="ID_1544927434" LINK="https://resources.jetbrains.com/assets/products/intellij-idea/IntelliJIDEA_ReferenceCard.pdf" MODIFIED="1457988129371" TEXT="Android Studio Shortcuts">
 <richcontent TYPE="NOTE"><html>
   <head>
     

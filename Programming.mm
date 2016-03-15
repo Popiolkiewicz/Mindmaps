@@ -4580,7 +4580,7 @@ df.setRoundingMode(</font><font color="rgb(43, 145, 175)" face="Consolas, Menlo,
 </node>
 <node CREATED="1434303605644" HGAP="50" ID="ID_1379788006" MODIFIED="1457988135685" STYLE="bubble" TEXT="Application Servers" VSHIFT="4">
 <node CREATED="1434303621044" ID="ID_481677124" MODIFIED="1435248506580" STYLE="bubble" TEXT="JBoss">
-<node CREATED="1457988142632" ID="ID_1883006633" MODIFIED="1457988344294" TEXT="Configuring">
+<node CREATED="1457988142632" ID="ID_1883006633" MODIFIED="1458002425374" TEXT="Configuring">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -4607,8 +4607,19 @@ df.setRoundingMode(</font><font color="rgb(43, 145, 175)" face="Consolas, Menlo,
 </node>
 </node>
 <node CREATED="1434389815476" HGAP="51" ID="ID_800039866" MODIFIED="1441899594042" STYLE="bubble" TEXT="Enterprise Edition Components" VSHIFT="-88">
-<node CREATED="1434292999965" ID="ID_640035149" LINK="https://www.youtube.com/watch?v=JrDT-PYhG20&amp;list=PLA57AAEA149003B30" MODIFIED="1457951908639" STYLE="bubble" TEXT="EJB 3.0">
-<node CREATED="1457953133716" ID="ID_257104326" MODIFIED="1457956237796" TEXT="Local learning configuration">
+<node CREATED="1434292999965" ID="ID_640035149" LINK="https://www.youtube.com/watch?v=JrDT-PYhG20&amp;list=PLA57AAEA149003B30" MODIFIED="1458002886185" STYLE="bubble" TEXT="EJB 3.0">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="rgb(51, 51, 51)" face="Roboto, arial, sans-serif" size="13px">Enterprise JavaBeans ('EJB') is a managed, server-side component architecture for modular construction of enterprise applications.&#160;<br align="start" style="font-variant: normal; letter-spacing: normal; line-height: 17px; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255)" />The EJB specification is one of several Java APIs in the Java EE specification.&#160;<br align="start" style="font-variant: normal; letter-spacing: normal; line-height: 17px; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255)" />EJB is a server-side model that encapsulates the business logic of an application.<br align="start" style="font-variant: normal; letter-spacing: normal; line-height: 17px; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255)" /><br align="start" style="font-variant: normal; letter-spacing: normal; line-height: 17px; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255)" />A session bean encapsulates business logic that can be invoked programmatically by a client over local, remote, or web service client views.&#160;<br align="start" style="font-variant: normal; letter-spacing: normal; line-height: 17px; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255)" />Session beans are of three types: stateful, stateless, and singleton.</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1457953133716" ID="ID_257104326" MODIFIED="1458002895520" TEXT="Local learning configuration">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -4624,7 +4635,61 @@ df.setRoundingMode(</font><font color="rgb(43, 145, 175)" face="Consolas, Menlo,
       - create new Application Client Module
     </p>
   </body>
+</html>
+</richcontent>
+<node CREATED="1458002416178" ID="ID_723791032" MODIFIED="1458002898489" TEXT="Adding EJB packages">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      To add missing EJB packages we have to follow the path
+    </p>
+    <p>
+      rightclick on project -&gt; Configure Build Path -&gt; Libraries -&gt; Add Library...-&gt; JBoss EJB3 Libraries -&gt; Choose Server -&gt; Apply
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1458001595959" ID="ID_721953619" MODIFIED="1458001667881" TEXT="Basics">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      In Eclipse:
+    </p>
+    <p>
+      - create Dynamic Web Application
+    </p>
+    <p>
+      - create index.html in WebContent
+    </p>
+    <p>
+      - create Servlet in java resources
+    </p>
+    <p>
+      - configure the Servlet using annotations or *.xml file
+    </p>
+  </body>
 </html></richcontent>
+</node>
+<node CREATED="1458002957404" ID="ID_1573070047" MODIFIED="1458002988650" TEXT="Advantages">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      - we don't have to worry about EJB class implementation, server is creating an object for us.
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 </node>
 <node CREATED="1442587751173" FOLDED="true" ID="ID_976313591" MODIFIED="1457950188118" TEXT="Servlets">
@@ -5316,8 +5381,7 @@ df.setRoundingMode(</font><font color="rgb(43, 145, 175)" face="Consolas, Menlo,
       Double shift - searching file.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>

@@ -4596,8 +4596,7 @@ df.setRoundingMode(</font><font color="rgb(43, 145, 175)" face="Consolas, Menlo,
       in case we have to change used port
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1434303626636" ID="ID_938921879" MODIFIED="1435248506580" STYLE="bubble" TEXT="TomCat">
@@ -4617,8 +4616,7 @@ df.setRoundingMode(</font><font color="rgb(43, 145, 175)" face="Consolas, Menlo,
       <font color="rgb(51, 51, 51)" face="Roboto, arial, sans-serif" size="13px">Enterprise JavaBeans ('EJB') is a managed, server-side component architecture for modular construction of enterprise applications.&#160;<br align="start" style="font-variant: normal; letter-spacing: normal; line-height: 17px; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255)" />The EJB specification is one of several Java APIs in the Java EE specification.&#160;<br align="start" style="font-variant: normal; letter-spacing: normal; line-height: 17px; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255)" />EJB is a server-side model that encapsulates the business logic of an application.<br align="start" style="font-variant: normal; letter-spacing: normal; line-height: 17px; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255)" /><br align="start" style="font-variant: normal; letter-spacing: normal; line-height: 17px; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255)" />A session bean encapsulates business logic that can be invoked programmatically by a client over local, remote, or web service client views.&#160;<br align="start" style="font-variant: normal; letter-spacing: normal; line-height: 17px; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255)" />Session beans are of three types: stateful, stateless, and singleton.</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1457953133716" ID="ID_257104326" MODIFIED="1458002895520" TEXT="Local learning configuration">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -4635,8 +4633,7 @@ df.setRoundingMode(</font><font color="rgb(43, 145, 175)" face="Consolas, Menlo,
       - create new Application Client Module
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1458002416178" ID="ID_723791032" MODIFIED="1458002898489" TEXT="Adding EJB packages">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -4650,8 +4647,7 @@ df.setRoundingMode(</font><font color="rgb(43, 145, 175)" face="Consolas, Menlo,
       rightclick on project -&gt; Configure Build Path -&gt; Libraries -&gt; Add Library...-&gt; JBoss EJB3 Libraries -&gt; Choose Server -&gt; Apply
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1458001595959" ID="ID_721953619" MODIFIED="1458001667881" TEXT="Basics">
@@ -4678,7 +4674,7 @@ df.setRoundingMode(</font><font color="rgb(43, 145, 175)" face="Consolas, Menlo,
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1458002957404" ID="ID_1573070047" MODIFIED="1458002988650" TEXT="Advantages">
+<node CREATED="1458002957404" ID="ID_1573070047" MODIFIED="1458035705079" TEXT="Advantages">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -4690,6 +4686,11 @@ df.setRoundingMode(</font><font color="rgb(43, 145, 175)" face="Consolas, Menlo,
   </body>
 </html>
 </richcontent>
+</node>
+<node CREATED="1458035765662" ID="ID_1361783191" MODIFIED="1458035769108" TEXT="Session Beans">
+<node CREATED="1458035770235" ID="ID_1035913026" MODIFIED="1458035773258" TEXT="Stateless"/>
+<node CREATED="1458035774107" ID="ID_82043964" MODIFIED="1458035783459" TEXT="Stateful"/>
+<node CREATED="1458035784476" ID="ID_1570478018" MODIFIED="1458035787125" TEXT="Singleton"/>
 </node>
 </node>
 <node CREATED="1442587751173" FOLDED="true" ID="ID_976313591" MODIFIED="1457950188118" TEXT="Servlets">

@@ -4689,7 +4689,21 @@ df.setRoundingMode(</font><font color="rgb(43, 145, 175)" face="Consolas, Menlo,
 </node>
 <node CREATED="1458035765662" ID="ID_1361783191" MODIFIED="1458035769108" TEXT="Session Beans">
 <node CREATED="1458035770235" ID="ID_1035913026" MODIFIED="1458035773258" TEXT="Stateless"/>
-<node CREATED="1458035774107" ID="ID_82043964" MODIFIED="1458035783459" TEXT="Stateful"/>
+<node CREATED="1458035774107" ID="ID_82043964" MODIFIED="1458035783459" TEXT="Stateful">
+<node CREATED="1458072146896" ID="ID_1960921894" MODIFIED="1458072158680" TEXT="@Remote">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Annotation to create remote interface
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
 <node CREATED="1458035784476" ID="ID_1570478018" MODIFIED="1458035787125" TEXT="Singleton"/>
 </node>
 </node>

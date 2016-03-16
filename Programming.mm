@@ -4684,20 +4684,19 @@ df.setRoundingMode(</font><font color="rgb(43, 145, 175)" face="Consolas, Menlo,
       - we don't have to worry about EJB class implementation, server is creating an object for us.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1458035765662" ID="ID_1361783191" MODIFIED="1458035769108" TEXT="Session Beans">
 <node CREATED="1458035770235" ID="ID_1035913026" MODIFIED="1458035773258" TEXT="Stateless"/>
 <node CREATED="1458035774107" ID="ID_82043964" MODIFIED="1458035783459" TEXT="Stateful">
-<node CREATED="1458072146896" ID="ID_1960921894" MODIFIED="1458072158680" TEXT="@Remote">
+<node CREATED="1458072146896" ID="ID_1960921894" MODIFIED="1458137846437" TEXT="@Remote">
 <richcontent TYPE="NOTE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      Annotation to create remote interface
+      Annotation to create remote interface&#160;
     </p>
   </body>
 </html>

@@ -4688,7 +4688,62 @@ df.setRoundingMode(</font><font color="rgb(43, 145, 175)" face="Consolas, Menlo,
 </node>
 <node CREATED="1458035765662" ID="ID_1361783191" MODIFIED="1458035769108" TEXT="Session Beans">
 <node CREATED="1458035770235" ID="ID_1035913026" MODIFIED="1458035773258" TEXT="Stateless"/>
-<node CREATED="1458035774107" ID="ID_82043964" MODIFIED="1458035783459" TEXT="Stateful">
+<node CREATED="1458035774107" ID="ID_82043964" LINK="http://www.tutorialspoint.com/ejb/ejb_stateful_beans.htm" MODIFIED="1458249624548" TEXT="Stateful">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="color: rgb(0, 0, 0); line-height: 24px; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; text-align: justify; font-size: 15px !important; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px">
+      A stateful session bean is a type of enterprise bean which preserve the conversational state with client. A stateful session bean as per its name keeps associated client state in its instance variables. EJB Container creates a separate stateful session bean to process client's each request. As soon as request scope is over, statelful session bean is destroyed.
+    </p>
+    <p style="color: rgb(0, 0, 0); line-height: 24px; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; text-align: justify; font-size: 15px !important; font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px">
+      Following are the steps required to create a stateful ejb.
+    </p>
+    <ul class="list" style="color: rgb(49, 49, 49); font-family: Verdana, Geneva, Tahoma, Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 22px; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px">
+      <li style="line-height: 24px; margin-bottom: 5px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 19px; list-style: none; color: rgb(0, 0, 0); background-image: url(/images/icon-bullet.png); background-position: 0px 4px; background-repeat: no-repeat; background-attachment: scroll">
+        <p style="color: rgb(0, 0, 0); line-height: 24px; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; text-align: justify; font-size: 15px !important">
+          <font size="2">Create a remote/local interface exposing the business methods. </font>
+        </p>
+      </li>
+      <li style="line-height: 24px; margin-bottom: 5px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 19px; list-style: none; color: rgb(0, 0, 0); background-image: url(/images/icon-bullet.png); background-position: 0px 4px; background-repeat: no-repeat; background-attachment: scroll">
+        <p style="color: rgb(0, 0, 0); line-height: 24px; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; text-align: justify; font-size: 15px !important">
+          <font size="2">This interface will be used by the ejb client application. </font>
+        </p>
+      </li>
+      <li style="line-height: 24px; margin-bottom: 5px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 19px; list-style: none; color: rgb(0, 0, 0); background-image: url(/images/icon-bullet.png); background-position: 0px 4px; background-repeat: no-repeat; background-attachment: scroll">
+        
+      </li>
+      <li style="line-height: 24px; margin-bottom: 5px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 19px; list-style: none; color: rgb(0, 0, 0); background-image: url(/images/icon-bullet.png); background-position: 0px 4px; background-repeat: no-repeat; background-attachment: scroll">
+        <p style="color: rgb(0, 0, 0); line-height: 24px; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; text-align: justify; font-size: 15px !important">
+          <font size="2">Use @Local annotation if ejb client is in same environment where ejb session bean is to be deployed. </font>
+        </p>
+      </li>
+      <li style="line-height: 24px; margin-bottom: 5px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 19px; list-style: none; color: rgb(0, 0, 0); background-image: url(/images/icon-bullet.png); background-position: 0px 4px; background-repeat: no-repeat; background-attachment: scroll">
+        
+      </li>
+      <li style="line-height: 24px; margin-bottom: 5px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 19px; list-style: none; color: rgb(0, 0, 0); background-image: url(/images/icon-bullet.png); background-position: 0px 4px; background-repeat: no-repeat; background-attachment: scroll">
+        <p style="color: rgb(0, 0, 0); line-height: 24px; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; text-align: justify; font-size: 15px !important">
+          <font size="2">Use @Remote annotation if ejb client is in different environment where ejb session bean is to be deployed. </font>
+        </p>
+      </li>
+      <li style="line-height: 24px; margin-bottom: 5px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 19px; list-style: none; color: rgb(0, 0, 0); background-image: url(/images/icon-bullet.png); background-position: 0px 4px; background-repeat: no-repeat; background-attachment: scroll">
+        
+      </li>
+      <li style="line-height: 24px; margin-bottom: 5px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 19px; list-style: none; color: rgb(0, 0, 0); background-image: url(/images/icon-bullet.png); background-position: 0px 4px; background-repeat: no-repeat; background-attachment: scroll">
+        <p style="color: rgb(0, 0, 0); line-height: 24px; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; text-align: justify; font-size: 15px !important">
+          <font size="2">Create a stateful session bean implementing the above interface. </font>
+        </p>
+      </li>
+      <li style="line-height: 24px; margin-bottom: 5px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 19px; list-style: none; color: rgb(0, 0, 0); background-image: url(/images/icon-bullet.png); background-position: 0px 4px; background-repeat: no-repeat; background-attachment: scroll">
+        <p style="color: rgb(0, 0, 0); line-height: 24px; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; text-align: justify; font-size: 15px !important">
+          <font size="2">Use @Stateful annotation to signify it a stateful bean. EJB Container automatically creates the relevant configurations or interfaces required by reading this annotation during deployment.</font>
+        </p>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
 <node CREATED="1458072146896" ID="ID_1960921894" MODIFIED="1458137846437" TEXT="@Remote">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -4699,8 +4754,7 @@ df.setRoundingMode(</font><font color="rgb(43, 145, 175)" face="Consolas, Menlo,
       Annotation to create remote interface&#160;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1458035784476" ID="ID_1570478018" MODIFIED="1458035787125" TEXT="Singleton"/>

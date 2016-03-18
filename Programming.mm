@@ -4688,7 +4688,7 @@ df.setRoundingMode(</font><font color="rgb(43, 145, 175)" face="Consolas, Menlo,
 </node>
 <node CREATED="1458035765662" ID="ID_1361783191" MODIFIED="1458035769108" TEXT="Session Beans">
 <node CREATED="1458035770235" ID="ID_1035913026" MODIFIED="1458035773258" TEXT="Stateless"/>
-<node CREATED="1458035774107" ID="ID_82043964" LINK="http://www.tutorialspoint.com/ejb/ejb_stateful_beans.htm" MODIFIED="1458249624548" TEXT="Stateful">
+<node CREATED="1458035774107" ID="ID_82043964" LINK="http://www.tutorialspoint.com/ejb/ejb_stateful_beans.htm" MODIFIED="1458325680419" TEXT="Stateful">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -4708,7 +4708,7 @@ df.setRoundingMode(</font><font color="rgb(43, 145, 175)" face="Consolas, Menlo,
       </li>
       <li style="line-height: 24px; margin-bottom: 5px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 19px; list-style: none; color: rgb(0, 0, 0); background-image: url(/images/icon-bullet.png); background-position: 0px 4px; background-repeat: no-repeat; background-attachment: scroll">
         <p style="color: rgb(0, 0, 0); line-height: 24px; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; text-align: justify; font-size: 15px !important">
-          <font size="2">This interface will be used by the ejb client application. </font>
+          <font size="2">This interface will be used by the ejb client application.&#160; </font>
         </p>
       </li>
       <li style="line-height: 24px; margin-bottom: 5px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 19px; list-style: none; color: rgb(0, 0, 0); background-image: url(/images/icon-bullet.png); background-position: 0px 4px; background-repeat: no-repeat; background-attachment: scroll">

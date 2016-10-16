@@ -2379,8 +2379,7 @@ flanders.greet</pre>
       &lt;/persistence&gt;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1434315952671" ID="ID_269790236" MODIFIED="1474619930465" STYLE="bubble" TEXT="Tworzenie programu inicjuj&#x105;cego prac&#x119; Hibernate/JPA">
 <richcontent TYPE="NOTE"><html>
@@ -2461,8 +2460,7 @@ flanders.greet</pre>
       }
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1434316030933" ID="ID_241329596" LINK="https://docs.jboss.org/hibernate/entitymanager/3.5/reference/en/html/configuration.html" MODIFIED="1434667275527" STYLE="bubble" TEXT="U&#x17c;yteczne info odno&#x15b;nie konfiguracji"/>
 <node CREATED="1434316095623" ID="ID_270049543" MODIFIED="1434667275528" STYLE="bubble" TEXT="UWAGA - persistence.xml =/= hibernate.cfg.xml"/>
@@ -2479,8 +2477,7 @@ flanders.greet</pre>
       Patrz projekt &quot;First Entity&quot;.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1434320425435" ID="ID_1521507603" LINK="https://docs.oracle.com/javaee/7/api/javax/persistence/package-summary.html" MODIFIED="1434667275528" STYLE="bubble" TEXT="Adnotacje javax.persistence"/>
 <node CREATED="1434321234019" ID="ID_339800230" MODIFIED="1474619930482" STYLE="bubble" TEXT="Modyfikowanie encji">
@@ -2493,8 +2490,7 @@ flanders.greet</pre>
       LearningWorkspace -&gt; Entity Configuration
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1434390981667" ID="ID_620207632" MODIFIED="1474619930492" STYLE="bubble" TEXT="Daty">
 <richcontent TYPE="NOTE"><html>
@@ -2575,8 +2571,7 @@ flanders.greet</pre>
       }
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1434392094637" ID="ID_1408620449" LINK="https://www.youtube.com/watch?v=YpszDfBhlN4" MODIFIED="1474619930505" STYLE="bubble" TEXT="Jedna klasa - dwie tabele">
 <richcontent TYPE="NOTE"><html>
@@ -2666,8 +2661,7 @@ flanders.greet</pre>
       wi&#281;cej w LearningWorkspace -&gt; Multiple Tables
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1434393463981" ID="ID_161966686" MODIFIED="1474619930510" STYLE="bubble" TEXT="Klasa osadzona (Embedded class)">
 <richcontent TYPE="NOTE"><html>
@@ -2679,8 +2673,7 @@ flanders.greet</pre>
       patrz LearningWorkspace&#160;&#160;-&gt; Embedded Class
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1434483653298" ID="ID_340087300" MODIFIED="1474619930516" STYLE="bubble" TEXT="entityManager">
 <richcontent TYPE="NOTE"><html>
@@ -2695,8 +2688,7 @@ flanders.greet</pre>
       entityManager.remove(entity); -&gt; usuwanie z bazy danych
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1434395010816" ID="ID_1181106224" MODIFIED="1474619930523" STYLE="bubble" TEXT="Wyszukiwanie i modyfikowanie">
 <richcontent TYPE="NOTE"><html>
@@ -2708,8 +2700,7 @@ flanders.greet</pre>
       patrz LearningWorkspace -&gt; Find and modify
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1434486563552" ID="ID_418858609" MODIFIED="1434667275528" STYLE="bubble" TEXT="@Entity(name=&quot;xyz&quot;) =/= @Table(name=&quot;abc&quot;)"/>
 <node CREATED="1434486698137" ID="ID_207187677" MODIFIED="1474619930533" STYLE="bubble" TEXT="Query a TypedQuery">
@@ -2764,8 +2755,7 @@ flanders.greet</pre>
       }
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1434393676533" ID="ID_1128947602" MODIFIED="1474619937912" STYLE="bubble" TEXT="Relacje">
@@ -2780,8 +2770,7 @@ flanders.greet</pre>
       patrz LearningWorkspace -&gt; One To One
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1434655498075" ID="ID_1466124392" MODIFIED="1474619930552" STYLE="bubble" TEXT="one-to-many">
 <richcontent TYPE="NOTE"><html>
@@ -2793,8 +2782,7 @@ flanders.greet</pre>
       LearningWorkspace -&gt; One To Many Unidirectional
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1434655031546" ID="ID_1541319325" MODIFIED="1474619937915" STYLE="bubble" TEXT="Bidirectional">
@@ -2808,8 +2796,7 @@ flanders.greet</pre>
       LearningWorkspace -&gt; One To One -&gt; Bidirectional
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1434655507858" ID="ID_1405322746" MODIFIED="1474619930565" STYLE="bubble" TEXT="one-to-many">
 <richcontent TYPE="NOTE"><html>
@@ -2821,8 +2808,7 @@ flanders.greet</pre>
       LearningWorkspace -&gt; One To Many Bidirectional
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1434655508257" ID="ID_164825007" MODIFIED="1474619930570" STYLE="bubble" TEXT="many-to-many">
 <richcontent TYPE="NOTE"><html>
@@ -2834,8 +2820,7 @@ flanders.greet</pre>
       LearningWorkspace -&gt; Many to Many
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -2850,8 +2835,7 @@ flanders.greet</pre>
       LearningWorkspace -&gt; JPQL 1
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1434485884617" ID="ID_467631015" MODIFIED="1474619930585" STYLE="bubble" TEXT="with pararmeters">
 <richcontent TYPE="NOTE"><html>
@@ -2905,8 +2889,7 @@ flanders.greet</pre>
       query.setParameter(&quot;names&quot;, names);
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1434486615960" ID="ID_1163575679" MODIFIED="1474619937919" STYLE="bubble" TEXT="String Functions">
 <richcontent TYPE="NOTE"><html>
@@ -2945,8 +2928,7 @@ flanders.greet</pre>
       System.out.println(&quot;D&#322;ugos&#263; imienia: &quot; + result1[4]);
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1434654930595" ID="ID_1411275909" MODIFIED="1434667275529" STYLE="bubble" TEXT="substring()"/>
 <node CREATED="1434654951484" ID="ID_1661415753" MODIFIED="1434667275529" STYLE="bubble" TEXT="lower()"/>
 <node CREATED="1434654951862" ID="ID_1553410495" MODIFIED="1434667275529" STYLE="bubble" TEXT="upper()"/>
@@ -2987,8 +2969,7 @@ flanders.greet</pre>
       System.out.println(&quot;Pracownik&#243;w: &quot; + result[4]);
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1434654973107" ID="ID_1221181806" MODIFIED="1434667275529" STYLE="bubble" TEXT="avg()"/>
 <node CREATED="1434654973514" ID="ID_657193248" MODIFIED="1434667275529" STYLE="bubble" TEXT="min()"/>
 <node CREATED="1434654973874" ID="ID_1202330771" MODIFIED="1434667275529" STYLE="bubble" TEXT="max()"/>
@@ -3007,8 +2988,7 @@ flanders.greet</pre>
       Learning workspace -&gt; Table generator
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1434666039026" ID="ID_1403662837" MODIFIED="1474619937923" STYLE="bubble" TEXT="Dziedziczenie (Inheritance)">
@@ -3022,8 +3002,7 @@ flanders.greet</pre>
       Learning Workspace -&gt; Single Table Inheritance
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1434667381342" ID="ID_785350212" MODIFIED="1474619930630" TEXT="Joined">
 <richcontent TYPE="NOTE"><html>
@@ -3041,8 +3020,7 @@ flanders.greet</pre>
       LearningWorkspace -&gt; Joined Inheritance
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1434666860428" ID="ID_549156693" MODIFIED="1474619930636" STYLE="bubble" TEXT="Adnotacje">
 <richcontent TYPE="NOTE"><html>
@@ -3060,8 +3038,7 @@ flanders.greet</pre>
       @DiscriminatorValue(&quot;nazwa dyskryminatora&quot;)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1434667401581" ID="ID_551372700" MODIFIED="1474619930642" TEXT="Table per class">
 <richcontent TYPE="NOTE"><html>
@@ -3073,8 +3050,7 @@ flanders.greet</pre>
       LearningWorkspace -&gt; Table Per Class Inheritance
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1434663831634" ID="ID_852360707" LINK="https://www.youtube.com/watch?v=yPT8n1IKyGI&amp;index=1&amp;list=PLU2dl_1LV_SQWZI2R_RSEeYm1tfueszOc" MODIFIED="1434667275529" STYLE="bubble" TEXT="Porz&#x105;dna seria tutoriali PL"/>
@@ -3088,8 +3064,7 @@ flanders.greet</pre>
       LearningWorkspace -&gt; Criteria API
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="yes"/>
 </node>
 <node CREATED="1434708589760" ID="ID_1729681218" MODIFIED="1434708599296" TEXT="Cascade (Kaskadowo&#x15b;&#x107;)"/>
@@ -3191,8 +3166,7 @@ flanders.greet</pre>
       }
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1442307748740" ID="ID_953134128" MODIFIED="1474619930670" TEXT="EventHandler">
 <richcontent TYPE="NOTE"><html>
@@ -3213,8 +3187,7 @@ flanders.greet</pre>
       }
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1442307060604" ID="ID_1632467187" MODIFIED="1474619937930" TEXT="Without parameters example">
@@ -3273,8 +3246,7 @@ flanders.greet</pre>
       }
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1442307072147" ID="ID_1083872610" MODIFIED="1474619930686" TEXT="EventHandler">
 <richcontent TYPE="NOTE"><html>
@@ -3295,8 +3267,7 @@ flanders.greet</pre>
       }
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1442312630692" ID="ID_65993335" MODIFIED="1474619937930" TEXT="HandlerRegistration">
@@ -3337,8 +3308,7 @@ flanders.greet</pre>
       registration.removeHandler();
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1442318259155" ID="ID_582439729" MODIFIED="1442318266301" TEXT="Remember to clean EventBus!"/>
@@ -3359,8 +3329,7 @@ flanders.greet</pre>
       <a href="https://turbomanage.wordpress.com/2010/03/02/tips-for-using-cachingdispatchasync-with-gwt-dispatch/">https://turbomanage.wordpress.com/2010/03/02/tips-for-using-cachingdispatchasync-with-gwt-dispatch/</a>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1474622213231" ID="ID_785162856" MODIFIED="1474622239649" TEXT="New EntryPoint">
 <richcontent TYPE="NOTE"><html>
@@ -3387,8 +3356,7 @@ flanders.greet</pre>
       -stw&#243;rz EntryPoint: MojaKlasaEntryPoint.java dziedzicz&#261;ca po AppEntryPoint
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1434293669722" ID="ID_1607107126" MODIFIED="1435248506579" STYLE="bubble" TEXT="JUnit"/>
@@ -3542,8 +3510,7 @@ flanders.greet</pre>
       ds.put(entity1);
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1435239666901" ID="ID_174736449" MODIFIED="1474619930726" TEXT="Batching">
 <richcontent TYPE="NOTE"><html>
@@ -3579,8 +3546,7 @@ flanders.greet</pre>
       ds.put(e4);
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1435244953824" ID="ID_998020634" MODIFIED="1474619930731" TEXT="Entity Groups">
@@ -3599,8 +3565,7 @@ flanders.greet</pre>
       - Every Entity with given root Entity as an ancestor is in the same Entity Group
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1435240672284" ID="ID_1403192819" MODIFIED="1474619937938" TEXT="Key">
 <node CREATED="1435240683614" FOLDED="true" ID="ID_88855798" MODIFIED="1441739634173" TEXT="consists of">
@@ -3623,8 +3588,7 @@ flanders.greet</pre>
       Key key1 = new KeyFactory.Builder(&quot;User&quot;, &quot;GreatGrandPa&quot;).addChild(&quot;User&quot;, &quot;GrandPa&quot;).addChild(&quot;User&quot;, &quot;Dad&quot;).getKey();
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1435244830632" ID="ID_1758169327" MODIFIED="1474619930746" TEXT="without parent">
 <richcontent TYPE="NOTE"><html>
@@ -3639,8 +3603,7 @@ flanders.greet</pre>
       Key key = KeyFactory.createKey(&quot;User&quot;, 1248);
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -3655,8 +3618,7 @@ flanders.greet</pre>
       A Datastore Query retrieves Entities from Datastore which operates on Entity values, keys to meet specified set of conditions. Datastore API provide a Query class for constructing queries and PreparedQuery class for fetching and returning Entities from the Datastore
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1435314152963" FOLDED="true" ID="ID_505212177" MODIFIED="1441739634174" TEXT="include">
 <node CREATED="1435314163299" ID="ID_1239636189" MODIFIED="1435314194086" TEXT="Entity Kind"/>
 <node CREATED="1435314195748" ID="ID_1512732599" MODIFIED="1435314211303" TEXT="Filters (optional)"/>
@@ -3742,8 +3704,7 @@ flanders.greet</pre>
       - Continuously updated as the queries are executed
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1435318442480" ID="ID_1268856756" MODIFIED="1474619930770" TEXT="Transactions">
 <richcontent TYPE="NOTE"><html>
@@ -3806,8 +3767,7 @@ flanders.greet</pre>
       }
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node COLOR="#ff0000" CREATED="1435310314779" ID="ID_668020736" MODIFIED="1474619937941" TEXT="CRUD ">
@@ -3822,8 +3782,7 @@ flanders.greet</pre>
       ds.put(entity);
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1435310558274" ID="ID_1928595249" MODIFIED="1474619930783" TEXT="Deleting Entity">
 <richcontent TYPE="NOTE"><html>
@@ -3835,8 +3794,7 @@ flanders.greet</pre>
       ds.delete(key);
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1435311770945" ID="ID_584116075" MODIFIED="1474619930788" TEXT="Retrieve Entity">
 <richcontent TYPE="NOTE"><html>
@@ -3848,8 +3806,7 @@ flanders.greet</pre>
       ds.get(key);
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -3866,8 +3823,7 @@ flanders.greet</pre>
       http://stackoverflow.com/questions/14039500/cant-backup-gae-application-datastore-to-gs-bucket
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1474622297726" ID="ID_1238382657" MODIFIED="1474622358691" TEXT="Deploy rollback">
 <richcontent TYPE="NOTE"><html>
@@ -3879,8 +3835,7 @@ flanders.greet</pre>
       &quot;C:\xxx\.m2\repository\com\google\appengine\appengine-java-sdk\1.9.34\appengine-java-sdk\appengine-java-sdk-1.9.34\bin&quot; appcfg rollback &quot;C:\xxx\target\-application-SNAPSHOT&quot;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1434293388418" FOLDED="true" HGAP="23" ID="ID_792956848" MODIFIED="1474622079631" STYLE="bubble" TEXT="Spring" VSHIFT="2">
@@ -3906,8 +3861,7 @@ flanders.greet</pre>
       patrz -&gt; SpringWorkspace -&gt; basic-dependency-injection
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1440530090235" ID="ID_15870669" LINK="https://www.youtube.com/watch?v=Yvz0OQePDzQ" MODIFIED="1440711404091" TEXT="Values injection">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -4063,8 +4017,7 @@ flanders.greet</pre>
       SpringWorkspace - static-factory-method
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1440533187241" ID="ID_1943369366" MODIFIED="1474619930810" TEXT="factory-method">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -4084,8 +4037,7 @@ flanders.greet</pre>
       zmienna&#160;&#160;&quot;locale&quot; tworzona za pomoc&#261; statycznej metody fabrykuj&#261;cej &quot;getDefault&quot; klasy &quot;java.util.Locale&quot;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1440533773137" ID="ID_335672302" LINK="https://www.youtube.com/watch?v=eSVdq3a4eTQ" MODIFIED="1474619930815" TEXT="W&#x142;asne metody fabrykuj&#x105;ce">
 <richcontent TYPE="NOTE"><html>
@@ -4097,8 +4049,7 @@ flanders.greet</pre>
       SpringWorkspace -&gt; own-factory-method
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1440710194381" ID="ID_897068267" LINK="https://www.youtube.com/watch?v=E7U_F114xe4" MODIFIED="1474619590990" TEXT="Instancyjne metody fabrykuj&#x105;ce">
 <richcontent TYPE="NOTE"><html>
@@ -4110,8 +4061,7 @@ flanders.greet</pre>
       SpringWorkspace -&gt; instance-factory-method
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1440712292260" ID="ID_635736408" LINK="https://www.youtube.com/watch?v=osbcbcnQ3Xw" MODIFIED="1474619930824" TEXT="p and c namespaces">
@@ -4142,8 +4092,7 @@ flanders.greet</pre>
       SpringWorkspace -&gt; p-and-c-namespaces
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1440714142126" ID="ID_1233820586" LINK="https://www.youtube.com/watch?v=yQ4BJjebosw" MODIFIED="1474619937946" TEXT="Tricks &amp; tips">
 <node CREATED="1440714202182" ID="ID_298882776" LINK="#ID_891912194" MODIFIED="1474619942877" TEXT="Log4j">
@@ -4159,8 +4108,7 @@ flanders.greet</pre>
       Right click on project -&gt; Maven -&gt; Download Sources
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1440714447534" ID="ID_393102823" LINK="http://docs.spring.io/spring/docs/current/spring-framework-reference/htmlsingle/" MODIFIED="1440714456157" TEXT="Documentation"/>
@@ -4308,8 +4256,7 @@ flanders.greet</pre>
       &lt;/exclusions&gt;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -4327,9 +4274,11 @@ flanders.greet</pre>
       jdkhome=&quot;C:\Components\Java\jdk1.7.0_75&quot;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
+</node>
+<node CREATED="1476652360120" ID="ID_161397638" MODIFIED="1476652365443" TEXT="cURL">
+<node CREATED="1476652415058" ID="ID_707151584" LINK="http://stackoverflow.com/questions/9507353/how-do-i-install-set-up-and-use-curl-on-a-windows" MODIFIED="1476652422542" TEXT="config"/>
 </node>
 </node>
 <node CREATED="1434294250018" FOLDED="true" HGAP="50" ID="ID_1131414322" MODIFIED="1474622083767" STYLE="bubble" TEXT="Language" VSHIFT="4">
@@ -4379,8 +4328,7 @@ flanders.greet</pre>
       &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;}
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1441887809921" ID="ID_504165894" MODIFIED="1474619930867" TEXT="Iterating over Map">
 <richcontent TYPE="NOTE"><html>
@@ -4398,8 +4346,7 @@ flanders.greet</pre>
       &#160;&#160;}
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -4429,8 +4376,7 @@ flanders.greet</pre>
       }
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1440750802983" ID="ID_1577310853" MODIFIED="1474619937952" TEXT="Basic Types">
@@ -4446,8 +4392,7 @@ df.setRoundingMode(</font><font face="Consolas, Menlo, Monaco, Lucida Console, L
 
 </font><font face="Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, sans-serif" size="13px" color="rgb(43, 145, 175)">String</font><font face="Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, sans-serif" size="13px" color="rgb(0, 0, 0)">&#160;str1 =&#160;df.format(</font><font face="Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, sans-serif" size="13px" color="rgb(128, 0, 0)">0.912385</font><font face="Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, sans-serif" size="13px" color="rgb(0, 0, 0)">));&#160;</font><font face="Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, sans-serif" size="13px" color="rgb(128, 128, 128)">// 0.91239</font></code></pre>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -4512,8 +4457,7 @@ df.setRoundingMode(</font><font face="Consolas, Menlo, Monaco, Lucida Console, L
       JavaWorkspace -&gt; Threads -&gt; pl.create.first.thread
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1441901006200" ID="ID_1518060665" LINK="https://www.youtube.com/watch?v=_aNO6x8HXZ0" MODIFIED="1474619937965" TEXT="Thread Synchronization">
 <richcontent TYPE="NOTE"><html>
@@ -4525,8 +4469,7 @@ df.setRoundingMode(</font><font face="Consolas, Menlo, Monaco, Lucida Console, L
       JavaWorkspace -&gt; Threads -&gt; basic.thread.sync
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1435655200509" ID="ID_1782066205" LINK="https://docs.oracle.com/javase/tutorial/essential/concurrency/syncmeth.html" MODIFIED="1474619930955" TEXT="synchronized">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -4546,8 +4489,7 @@ df.setRoundingMode(</font><font face="Consolas, Menlo, Monaco, Lucida Console, L
       Also we can use &quot;synchronized&quot; keyword on code blocks -&gt; see JavaWorkspace -&gt; Threads -&gt; multiple.locks
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="yes"/>
 </node>
 <node CREATED="1441907988243" ID="ID_1705033820" LINK="https://www.youtube.com/watch?v=_aNO6x8HXZ0" MODIFIED="1474619930961" TEXT="volatile">
@@ -4578,8 +4520,7 @@ df.setRoundingMode(</font><font face="Consolas, Menlo, Monaco, Lucida Console, L
       With this keyword we have guarantee that it will work on every operating systems.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="yes"/>
 </node>
 <node CREATED="1441963401204" ID="ID_287420184" LINK="https://www.youtube.com/watch?v=8sgDgXUUJ68" MODIFIED="1474619930967" TEXT="Locks">
@@ -4616,8 +4557,7 @@ df.setRoundingMode(</font><font face="Consolas, Menlo, Monaco, Lucida Console, L
       JavaWorkspace -&gt; Threads -&gt; multiple.locks
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1442238415939" ID="ID_290027998" LINK="https://www.youtube.com/watch?v=fjMTaVykOpc" MODIFIED="1474619937966" TEXT="ReentrantLock">
 <richcontent TYPE="NOTE"><html>
@@ -4629,8 +4569,7 @@ df.setRoundingMode(</font><font face="Consolas, Menlo, Monaco, Lucida Console, L
       JavaWorkspace -&gt; Threads -&gt; re.entrant.locks
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1442238474731" ID="ID_774519861" MODIFIED="1474619937966" TEXT="Lock lock = new ReentrantLock()">
 <node CREATED="1442238623531" ID="ID_1570538770" MODIFIED="1442238625278" TEXT="lock()"/>
 <node CREATED="1442238626564" ID="ID_804150652" MODIFIED="1442238629013" TEXT="unlock()"/>
@@ -4656,8 +4595,7 @@ df.setRoundingMode(</font><font face="Consolas, Menlo, Monaco, Lucida Console, L
       JavaWorkspace -&gt; Threads -&gt; deadlock
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1442240842959" ID="ID_261187462" MODIFIED="1442240859101" TEXT="acquiring locks - preventing from deadlock"/>
 </node>
 <node CREATED="1442242370712" ID="ID_1765385027" LINK="https://www.youtube.com/watch?v=KxTRsvgqoVQ" MODIFIED="1474619937967" TEXT="Semaphores">
@@ -4676,8 +4614,7 @@ df.setRoundingMode(</font><font face="Consolas, Menlo, Monaco, Lucida Console, L
       JavaWorkspace -&gt; Threads -&gt; semaphores
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1442242549777" ID="ID_139348676" MODIFIED="1442242553205" TEXT="acquire()"/>
 <node CREATED="1442242555304" ID="ID_11378333" MODIFIED="1442242558469" TEXT="release()"/>
 </node>
@@ -4710,8 +4647,7 @@ df.setRoundingMode(</font><font face="Consolas, Menlo, Monaco, Lucida Console, L
       JavaWorkspace -&gt; Thread -&gt; thread.pools
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1442233966882" ID="ID_1272347263" MODIFIED="1474619931011" TEXT="Countdown Latches">
 <richcontent TYPE="NOTE"><html>
@@ -4723,8 +4659,7 @@ df.setRoundingMode(</font><font face="Consolas, Menlo, Monaco, Lucida Console, L
       JavaWorkspace -&gt; Threads -&gt; countdown.latches
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1442235365715" ID="ID_1784036392" MODIFIED="1474619937969" TEXT="Producer-consumer">
 <node CREATED="1442235370916" ID="ID_784821298" LINK="https://www.youtube.com/watch?v=Vrt5LqpH2D0" MODIFIED="1474619937969" TEXT="BlockingQueue">
@@ -4737,8 +4672,7 @@ df.setRoundingMode(</font><font face="Consolas, Menlo, Monaco, Lucida Console, L
       JavaWorkspace -&gt; Threads -&gt; producer.consumer
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1442236089500" ID="ID_683793563" MODIFIED="1442236994414" TEXT="put()"/>
 <node CREATED="1442236093307" ID="ID_166546590" MODIFIED="1442236997206" TEXT="take()"/>
 </node>
@@ -4752,8 +4686,7 @@ df.setRoundingMode(</font><font face="Consolas, Menlo, Monaco, Lucida Console, L
       JavaWorkspace -&gt; Threads -&gt; wait.and.notify
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1442236983956" ID="ID_360020426" MODIFIED="1442236990854" TEXT="wait()"/>
 <node CREATED="1442236998668" ID="ID_356644720" MODIFIED="1442237002951" TEXT="notify()"/>
 <node CREATED="1442237004211" ID="ID_1225936699" MODIFIED="1442237008101" TEXT="notifyAll()"/>
@@ -4768,8 +4701,7 @@ df.setRoundingMode(</font><font face="Consolas, Menlo, Monaco, Lucida Console, L
       JavaWorkspace -&gt;Thread -&gt; low.level.synchronization
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1442243350936" ID="ID_1770719522" LINK="https://www.youtube.com/watch?v=lnbWFV4b7M4" MODIFIED="1474619937971" TEXT="Callable and Future">
@@ -4782,8 +4714,7 @@ df.setRoundingMode(</font><font face="Consolas, Menlo, Monaco, Lucida Console, L
       JavaWorkspace -&gt; Threads -&gt; callable.and.future
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1442243385807" ID="ID_174650533" MODIFIED="1474619931047" TEXT="future.get()">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -4794,8 +4725,7 @@ df.setRoundingMode(</font><font face="Consolas, Menlo, Monaco, Lucida Console, L
       Good thing is that this method waits until the Callable stops working and return a value.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1442303741708" ID="ID_1954966937" LINK="https://www.youtube.com/watch?v=6HydEu75iQI" MODIFIED="1474619931051" TEXT="Interrupting">
@@ -4808,8 +4738,7 @@ df.setRoundingMode(</font><font face="Consolas, Menlo, Monaco, Lucida Console, L
       JavaWorkspace -&gt; Threads -&gt; interrupting.threads
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -4831,8 +4760,7 @@ df.setRoundingMode(</font><font face="Consolas, Menlo, Monaco, Lucida Console, L
       in case we have to change used port
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1434303626636" ID="ID_938921879" MODIFIED="1474619937972" STYLE="bubble" TEXT="TomCat">
@@ -4852,8 +4780,7 @@ df.setRoundingMode(</font><font face="Consolas, Menlo, Monaco, Lucida Console, L
       <font color="rgb(51, 51, 51)" face="Roboto, arial, sans-serif">Enterprise JavaBeans ('EJB') is a managed, server-side component architecture for modular construction of enterprise applications.&#160;<br align="start" style="font-variant: normal; letter-spacing: normal; line-height: 17px; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255)" />The EJB specification is one of several Java APIs in the Java EE specification.&#160;<br align="start" style="font-variant: normal; letter-spacing: normal; line-height: 17px; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255)" />EJB is a server-side model that encapsulates the business logic of an application.<br align="start" style="font-variant: normal; letter-spacing: normal; line-height: 17px; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255)" /><br align="start" style="font-variant: normal; letter-spacing: normal; line-height: 17px; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255)" />A session bean encapsulates business logic that can be invoked programmatically by a client over local, remote, or web service client views.&#160;<br align="start" style="font-variant: normal; letter-spacing: normal; line-height: 17px; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255)" />Session beans are of three types: stateful, stateless, and singleton.</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1457953133716" ID="ID_257104326" MODIFIED="1474619937980" TEXT="Local learning configuration">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -4870,8 +4797,7 @@ df.setRoundingMode(</font><font face="Consolas, Menlo, Monaco, Lucida Console, L
       - create new Application Client Module
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1458002416178" ID="ID_723791032" MODIFIED="1474619931165" TEXT="Adding EJB packages">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -4885,8 +4811,7 @@ df.setRoundingMode(</font><font face="Consolas, Menlo, Monaco, Lucida Console, L
       rightclick on project -&gt; Configure Build Path -&gt; Libraries -&gt; Add Library...-&gt; JBoss EJB3 Libraries -&gt; Choose Server -&gt; Apply
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1458001595959" ID="ID_721953619" MODIFIED="1474619931171" TEXT="Basics">
@@ -4911,8 +4836,7 @@ df.setRoundingMode(</font><font face="Consolas, Menlo, Monaco, Lucida Console, L
       - configure the Servlet using annotations or *.xml file
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1458002957404" ID="ID_1573070047" MODIFIED="1474619931176" TEXT="Advantages">
 <richcontent TYPE="NOTE"><html>
@@ -4924,8 +4848,7 @@ df.setRoundingMode(</font><font face="Consolas, Menlo, Monaco, Lucida Console, L
       - we don't have to worry about EJB class implementation, server is creating an object for us.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1458035765662" ID="ID_1361783191" MODIFIED="1474619937981" TEXT="Session Beans">
 <node CREATED="1458035770235" ID="ID_1035913026" MODIFIED="1458035773258" TEXT="Stateless"/>
@@ -4983,8 +4906,7 @@ df.setRoundingMode(</font><font face="Consolas, Menlo, Monaco, Lucida Console, L
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1458072146896" ID="ID_1960921894" MODIFIED="1474619931240" TEXT="@Remote">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -4995,8 +4917,7 @@ df.setRoundingMode(</font><font face="Consolas, Menlo, Monaco, Lucida Console, L
       Annotation to create remote interface&#160;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1458035784476" ID="ID_1570478018" MODIFIED="1458035787125" TEXT="Singleton"/>
@@ -5597,8 +5518,7 @@ df.setRoundingMode(</font><font face="Consolas, Menlo, Monaco, Lucida Console, L
       -Run application from main android studio page (green arrow)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1457780915629" ID="ID_1843185796" LINK="http://stackoverflow.com/questions/29887722/error-rendering-problems-the-following-classes-could-not-be-found-android-suppo" MODIFIED="1474619931274" TEXT="Dealing with rendering problem">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -5627,8 +5547,7 @@ df.setRoundingMode(</font><font face="Consolas, Menlo, Monaco, Lucida Console, L
       - install all android SDK version from settings and try rendering on these (API 21 - Material.Light + delete &quot;tools:showIn=@layout/activity_main&quot; from the main xml file)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1457863910673" ID="ID_1279443303" LINK="https://www.youtube.com/watch?v=XWk5hKmgAmE" MODIFIED="1457863923274" TEXT="Creating custom AVD"/>
 <node CREATED="1457893712032" ID="ID_1128145139" LINK="http://eclipsecolorthemes.org/?view=theme&amp;id=24587" MODIFIED="1457893722398" TEXT="Rainbow Theme"/>
@@ -5682,8 +5601,7 @@ df.setRoundingMode(</font><font face="Consolas, Menlo, Monaco, Lucida Console, L
       we can store string constants here and use these in xml files
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1457867087633" ID="ID_1544927434" LINK="https://resources.jetbrains.com/assets/products/intellij-idea/IntelliJIDEA_ReferenceCard.pdf" MODIFIED="1457988129371" TEXT="Android Studio Shortcuts">
 <richcontent TYPE="NOTE"><html>

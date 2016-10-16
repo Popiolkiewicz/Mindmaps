@@ -2306,7 +2306,7 @@ flanders.greet</pre>
 <node BACKGROUND_COLOR="#ffffff" COLOR="#6699ff" CREATED="1434292763088" HGAP="27" ID="ID_401745119" MODIFIED="1474619979058" POSITION="right" STYLE="bubble" TEXT="Java" VSHIFT="1">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <icon BUILTIN="yes"/>
-<node CREATED="1434294061258" HGAP="50" ID="ID_1213403955" MODIFIED="1474620376046" STYLE="bubble" TEXT="Tools &amp; Frameworks" VSHIFT="84">
+<node CREATED="1434294061258" HGAP="50" ID="ID_1213403955" MODIFIED="1476653051896" STYLE="bubble" TEXT="Tools &amp; Frameworks" VSHIFT="84">
 <node CREATED="1434293064398" FOLDED="true" ID="ID_1027989976" LINK="#ID_772946411" MODIFIED="1474620095438" STYLE="bubble" TEXT="Hibernate">
 <node CREATED="1434294489417" ID="ID_1853007648" MODIFIED="1434667275527" STYLE="bubble" TEXT="ORM (Object-Relational Mapping)"/>
 <node CREATED="1434313563299" ID="ID_38333587" LINK="https://www.youtube.com/watch?v=WCAeBerOxcg" MODIFIED="1434667275527" STYLE="bubble" TEXT="JPA a ORM"/>
@@ -4279,6 +4279,9 @@ flanders.greet</pre>
 </node>
 <node CREATED="1476652360120" ID="ID_161397638" MODIFIED="1476652365443" TEXT="cURL">
 <node CREATED="1476652415058" ID="ID_707151584" LINK="http://stackoverflow.com/questions/9507353/how-do-i-install-set-up-and-use-curl-on-a-windows" MODIFIED="1476652422542" TEXT="config"/>
+</node>
+<node CREATED="1476653064076" ID="ID_1347470770" MODIFIED="1476653074789" TEXT="Usefull tools $ tricks">
+<node CREATED="1476653053878" ID="ID_666032523" LINK="http://idiotechie.com/how-to-use-cmd-prompt-inside-eclipse/" MODIFIED="1476653082853" TEXT="cmd in Eclipse"/>
 </node>
 </node>
 <node CREATED="1434294250018" FOLDED="true" HGAP="50" ID="ID_1131414322" MODIFIED="1474622083767" STYLE="bubble" TEXT="Language" VSHIFT="4">

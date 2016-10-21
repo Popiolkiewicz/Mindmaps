@@ -8,7 +8,7 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <icon BUILTIN="edit"/>
 </node>
-<node COLOR="#ff9900" CREATED="1434293691362" FOLDED="true" HGAP="27" ID="ID_477306982" MODIFIED="1474620048661" POSITION="right" STYLE="bubble" TEXT="SQL" VSHIFT="2">
+<node COLOR="#ff9900" CREATED="1434293691362" FOLDED="true" HGAP="27" ID="ID_477306982" MODIFIED="1477076047994" POSITION="right" STYLE="bubble" TEXT="SQL" VSHIFT="2">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <icon BUILTIN="folder"/>
 <node CREATED="1434293860217" ID="ID_354443129" MODIFIED="1441899593980" STYLE="bubble" TEXT="MySQL">
@@ -37,16 +37,7 @@
 </node>
 <node CREATED="1434293976211" ID="ID_219417643" MODIFIED="1434667275458" STYLE="bubble" TEXT="PL SQL"/>
 </node>
-<node CREATED="1440711313814" FOLDED="true" HGAP="25" ID="ID_1921320260" MODIFIED="1457731599028" POSITION="left" TEXT="TODO" VSHIFT="-1">
-<icon BUILTIN="password"/>
-<node CREATED="1440711317763" ID="ID_932962519" MODIFIED="1440711328903" TEXT="Bazy danych"/>
-<node CREATED="1440711330484" ID="ID_798149331" MODIFIED="1440711514175" TEXT="podstawy konfiguracji system&#xf3;w - windows/linux">
-<icon BUILTIN="penguin"/>
-</node>
-<node CREATED="1440711353386" ID="ID_1649594245" MODIFIED="1440711353386" TEXT="serwery www i ich konfiguracje"/>
-<node CREATED="1440711362420" ID="ID_1429305384" MODIFIED="1440711375607" TEXT="Technologie komunikacyjne klient-serwer (RESTful)"/>
-</node>
-<node COLOR="#ff3333" CREATED="1434303450916" FOLDED="true" HGAP="27" ID="ID_1464618639" MODIFIED="1474620091293" POSITION="left" STYLE="bubble" TEXT="Scala" VSHIFT="-1">
+<node COLOR="#ff3333" CREATED="1434303450916" FOLDED="true" HGAP="27" ID="ID_1464618639" MODIFIED="1477076149428" POSITION="left" STYLE="bubble" TEXT="Scala" VSHIFT="-1">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <icon BUILTIN="ksmiletris"/>
 <node CREATED="1440621695130" ID="ID_796107896" MODIFIED="1442307798373" TEXT="Scala interpreter">
@@ -2298,7 +2289,7 @@ flanders.greet</pre>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <icon BUILTIN="bookmark"/>
 </node>
-<node COLOR="#00ff00" CREATED="1434293482467" FOLDED="true" HGAP="26" ID="ID_772946411" MODIFIED="1474620049126" POSITION="right" STYLE="bubble" TEXT="XML" VSHIFT="-1">
+<node COLOR="#00ff00" CREATED="1434293482467" FOLDED="true" HGAP="26" ID="ID_772946411" MODIFIED="1477076045858" POSITION="right" STYLE="bubble" TEXT="XML" VSHIFT="-1">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <icon BUILTIN="xmag"/>
 <node CREATED="1434317244840" ID="ID_379416978" LINK="https://www.youtube.com/watch?v=UqwGSo82cwU" MODIFIED="1434317681855" STYLE="fork" TEXT="Simple XML file tutorial"/>
@@ -3360,7 +3351,7 @@ flanders.greet</pre>
 </node>
 </node>
 <node CREATED="1434293669722" ID="ID_1607107126" MODIFIED="1435248506579" STYLE="bubble" TEXT="JUnit"/>
-<node CREATED="1434293730257" FOLDED="true" ID="ID_220913894" MODIFIED="1442485054200" STYLE="bubble" TEXT="Maven">
+<node CREATED="1434293730257" FOLDED="true" ID="ID_220913894" MODIFIED="1477076165482" STYLE="bubble" TEXT="Maven">
 <node CREATED="1434316439214" ID="ID_680402405" LINK="https://www.youtube.com/watch?v=Sy5f6dtBDhg" MODIFIED="1442484939586" STYLE="bubble" TEXT="Tworzenie prostego projektu w Eclipse">
 <node CREATED="1434316828079" ID="ID_799183674" MODIFIED="1435248506579" STYLE="bubble" TEXT="Wstrzykiwanie zale&#x17c;no&#x15b;ci do pom.xml">
 <richcontent TYPE="NOTE"><html>
@@ -3439,7 +3430,7 @@ flanders.greet</pre>
 <node CREATED="1435247074994" ID="ID_541023330" MODIFIED="1435248506580" STYLE="bubble" TEXT="Folder .m2 - kontener Mavena"/>
 </node>
 <node CREATED="1434303299084" ID="ID_753788184" MODIFIED="1474619937931" STYLE="bubble" TEXT="Google App Engine">
-<node CREATED="1435234885653" FOLDED="true" ID="ID_783531058" LINK="https://www.youtube.com/watch?v=_P1wcF_XBlE" MODIFIED="1476823935371" TEXT="DataStore">
+<node CREATED="1435234885653" FOLDED="true" ID="ID_783531058" LINK="https://www.youtube.com/watch?v=_P1wcF_XBlE" MODIFIED="1477076170699" TEXT="DataStore">
 <node CREATED="1435235705289" ID="ID_177775346" MODIFIED="1474619937934" TEXT="+">
 <node CREATED="1435235479017" ID="ID_999799983" MODIFIED="1435235487096" TEXT="Wysoka wydajno&#x15b;&#x107;"/>
 </node>
@@ -3838,7 +3829,7 @@ flanders.greet</pre>
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1434293388418" FOLDED="true" HGAP="23" ID="ID_792956848" MODIFIED="1474622079631" STYLE="bubble" TEXT="Spring" VSHIFT="2">
+<node CREATED="1434293388418" FOLDED="true" HGAP="23" ID="ID_792956848" MODIFIED="1477076160154" STYLE="bubble" TEXT="Spring" VSHIFT="2">
 <node CREATED="1435246961417" ID="ID_312787973" MODIFIED="1474619937944" TEXT="Configuration">
 <node CREATED="1435246965873" ID="ID_1767458930" LINK="http://mvnrepository.com/artifact/org.springframework/spring-context" MODIFIED="1440438487596" TEXT="Maven dependencies"/>
 </node>
@@ -4113,7 +4104,7 @@ flanders.greet</pre>
 </node>
 <node CREATED="1440714447534" ID="ID_393102823" LINK="http://docs.spring.io/spring/docs/current/spring-framework-reference/htmlsingle/" MODIFIED="1440714456157" TEXT="Documentation"/>
 </node>
-<node CREATED="1440531522232" FOLDED="true" ID="ID_601459340" MODIFIED="1474622080510" TEXT="Version Controll Systems">
+<node CREATED="1440531522232" FOLDED="true" ID="ID_601459340" MODIFIED="1477076161394" TEXT="Version Controll Systems">
 <node CREATED="1436789198590" ID="ID_962831516" MODIFIED="1474619941159" TEXT="Subversion (SVN)">
 <node CREATED="1436789207754" ID="ID_146899388" MODIFIED="1436789211543" TEXT="Subclipse"/>
 <node CREATED="1436789390551" ID="ID_1036744749" MODIFIED="1436789395591" TEXT="Subversive"/>
@@ -4123,7 +4114,7 @@ flanders.greet</pre>
 <node CREATED="1439288696363" ID="ID_179935755" LINK="https://www.siteground.com/tutorials/git/commands.htm" MODIFIED="1439290351440" TEXT="Commands"/>
 </node>
 </node>
-<node CREATED="1474620104781" FOLDED="true" ID="ID_1681207353" MODIFIED="1474622081105" TEXT="Logging">
+<node CREATED="1474620104781" FOLDED="true" ID="ID_1681207353" MODIFIED="1477076162257" TEXT="Logging">
 <node CREATED="1440714242838" ID="ID_35907811" MODIFIED="1474619967132" TEXT="Log4j">
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_35907811" ENDARROW="Default" ENDINCLINATION="210;0;" ID="Arrow_ID_554890527" SOURCE="ID_298882776" STARTARROW="None" STARTINCLINATION="210;0;"/>
 <node CREATED="1440714735862" ID="ID_1216585757" MODIFIED="1442484919733" TEXT="Configuration">
@@ -4284,23 +4275,169 @@ flanders.greet</pre>
 <node CREATED="1476653053878" ID="ID_666032523" LINK="http://idiotechie.com/how-to-use-cmd-prompt-inside-eclipse/" MODIFIED="1476653082853" TEXT="cmd in Eclipse"/>
 </node>
 <node CREATED="1476823835541" ID="ID_1206443686" MODIFIED="1476823902306" TEXT="Android">
-<node CREATED="1476823902308" ID="ID_41680169" MODIFIED="1477001291550" TEXT="Issues">
+<node CREATED="1476823902308" ID="ID_41680169" MODIFIED="1477075865666" TEXT="Issues">
 <node CREATED="1476823844907" ID="ID_1780237459" MODIFIED="1476823860709" TEXT="Two different views in on listview"/>
 <node CREATED="1476823863067" ID="ID_506182687" MODIFIED="1476823872824" TEXT="Broadcasting"/>
 <node CREATED="1476823887979" ID="ID_97980954" MODIFIED="1476823895009" TEXT="Fetching images"/>
 <node CREATED="1476916925150" ID="ID_329284524" MODIFIED="1476916928408" TEXT="Google maps"/>
 <node CREATED="1476916929270" ID="ID_1944990665" MODIFIED="1476916941167" TEXT="Invoking fragment inside fragment"/>
-<node CREATED="1477001238617" ID="ID_140270385" MODIFIED="1477001244903" TEXT="Image fullsize view"/>
+<node CREATED="1477001238617" ID="ID_140270385" MODIFIED="1477075884888" TEXT="Image fullsize view with resizing"/>
 <node CREATED="1477001245960" ID="ID_197005379" MODIFIED="1477001266586" TEXT="Horizontal list view"/>
 <node CREATED="1477001268896" ID="ID_1097158559" MODIFIED="1477001288113" TEXT="Fixing list view size in Scroll view using custom util method"/>
+<node CREATED="1477075818759" ID="ID_321078078" MODIFIED="1477075840382" TEXT="SQLite base DB Helper"/>
+<node CREATED="1477075847042" ID="ID_210448236" MODIFIED="1477075856165" TEXT="Slider with custom data"/>
 </node>
 <node CREATED="1476823910068" ID="ID_1823772261" MODIFIED="1476823918721" TEXT="Usefull libraries">
-<node CREATED="1476823920107" ID="ID_966944669" MODIFIED="1476823923077" TEXT="GSon"/>
+<node CREATED="1476823920107" ID="ID_966944669" MODIFIED="1477075909837" TEXT="Google GSon"/>
 <node CREATED="1476823924426" ID="ID_657322650" MODIFIED="1476823926153" TEXT="Ion"/>
 </node>
+<node CREATED="1457778901614" ID="ID_1478773609" MODIFIED="1477076040931" TEXT="Setting up">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      -download and install java sdk
+    </p>
+    <p>
+      -download and install android studio
+    </p>
+    <p>
+      -run as an administrator -&gt; SDK Manager -&gt; Launch Standalone SDK Manager -&gt; Install Packages
+    </p>
+    <p>
+      --Install Intel x86 Emulator Accelerator (HAXM installer)
+    </p>
+    <p>
+      - close android studio and run once again as an admin
+    </p>
+    <p>
+      - Start a new Android Studio project
+    </p>
+    <p>
+      -- Set up Minimum SDK to API that can run on 100% of devices
+    </p>
+    <p>
+      -- Choose blank activity
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      -File -&gt; Project Strukture -&gt; choose SDK's paths
+    </p>
+    <p>
+      -Switch apptheme (optional)
+    </p>
+    <p>
+      -AVD Manager -&gt; Build one virtual device (might take a few minutes)
+    </p>
+    <p>
+      -Run application from main android studio page (green arrow)
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1457780915629" ID="ID_1843185796" LINK="http://stackoverflow.com/questions/29887722/error-rendering-problems-the-following-classes-could-not-be-found-android-suppo" MODIFIED="1474619931274" TEXT="Dealing with rendering problem">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Rendering problems when trying to change application theme:
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - Sudoz answer
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      or
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      - install all android SDK version from settings and try rendering on these (API 21 - Material.Light + delete &quot;tools:showIn=@layout/activity_main&quot; from the main xml file)
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1457863910673" ID="ID_1279443303" LINK="https://www.youtube.com/watch?v=XWk5hKmgAmE" MODIFIED="1457863923274" TEXT="Creating custom AVD"/>
+<node CREATED="1457893712032" ID="ID_1128145139" LINK="http://eclipsecolorthemes.org/?view=theme&amp;id=24587" MODIFIED="1457893722398" TEXT="Rainbow Theme"/>
+</node>
+<node CREATED="1457864922031" ID="ID_1424712455" MODIFIED="1474619931285" TEXT="Basics of android studio project">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Every activity consists of dwo parts:
+    </p>
+    <p>
+      - view part (the xml file activity_main.xml)
+    </p>
+    <p>
+      - brain part (java file MainActivity.java)
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Two views of xml file:
+    </p>
+    <p>
+      -Design
+    </p>
+    <p>
+      -Text (here we are manipulating xml code to write a view)
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      AndroidManifest.xml:
+    </p>
+    <p>
+      -here we can add new activities
+    </p>
+    <p>
+      <i>&lt;category android:name=&quot;android.intent.category.LAUNCHER&quot; /&gt;</i>&#160; - APP STARTING POINT
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      strings.xml
+    </p>
+    <p>
+      we can store string constants here and use these in xml files
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1457867087633" ID="ID_1544927434" LINK="https://resources.jetbrains.com/assets/products/intellij-idea/IntelliJIDEA_ReferenceCard.pdf" MODIFIED="1457988129371" TEXT="Android Studio Shortcuts">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Double shift - searching file.
+    </p>
+  </body>
+</html></richcontent>
 </node>
 </node>
-<node CREATED="1434294250018" FOLDED="true" HGAP="50" ID="ID_1131414322" MODIFIED="1474622083767" STYLE="bubble" TEXT="Language" VSHIFT="4">
+</node>
+<node CREATED="1434294250018" FOLDED="true" HGAP="50" ID="ID_1131414322" MODIFIED="1477076096997" STYLE="bubble" TEXT="Language" VSHIFT="4">
 <node CREATED="1435835532382" ID="ID_1369987359" MODIFIED="1474619937951" TEXT="Collections">
 <node CREATED="1435835541271" ID="ID_1770136742" MODIFIED="1435835544875" TEXT="Set"/>
 <node CREATED="1441617465149" ID="ID_1852926998" MODIFIED="1474619937952" TEXT="LinkedHashMap">
@@ -4415,7 +4552,7 @@ df.setRoundingMode(</font><font face="Consolas, Menlo, Monaco, Lucida Console, L
 </node>
 </node>
 </node>
-<node CREATED="1441895687556" FOLDED="true" ID="ID_671684251" MODIFIED="1474620394318" TEXT="By packages">
+<node CREATED="1441895687556" ID="ID_671684251" MODIFIED="1477076082648" TEXT="By packages">
 <node CREATED="1441895695821" ID="ID_1323542287" MODIFIED="1441896641958" TEXT="java.lang">
 <icon BUILTIN="yes"/>
 </node>
@@ -4761,7 +4898,7 @@ df.setRoundingMode(</font><font face="Consolas, Menlo, Monaco, Lucida Console, L
 </node>
 </node>
 </node>
-<node CREATED="1434303605644" FOLDED="true" HGAP="50" ID="ID_1379788006" MODIFIED="1474622087086" STYLE="bubble" TEXT="Application Servers" VSHIFT="4">
+<node CREATED="1434303605644" FOLDED="true" HGAP="50" ID="ID_1379788006" MODIFIED="1477076098482" STYLE="bubble" TEXT="Application Servers" VSHIFT="4">
 <node CREATED="1434303621044" ID="ID_481677124" MODIFIED="1474619937972" STYLE="bubble" TEXT="JBoss">
 <node CREATED="1457988142632" ID="ID_1883006633" MODIFIED="1474619931059" TEXT="Configuring">
 <richcontent TYPE="NOTE"><html>
@@ -4788,7 +4925,7 @@ df.setRoundingMode(</font><font face="Consolas, Menlo, Monaco, Lucida Console, L
 </node>
 </node>
 </node>
-<node CREATED="1434389815476" HGAP="51" ID="ID_800039866" MODIFIED="1474622390339" STYLE="bubble" TEXT="Enterprise Edition Components" VSHIFT="-3">
+<node CREATED="1434389815476" FOLDED="true" HGAP="51" ID="ID_800039866" MODIFIED="1477076112388" STYLE="bubble" TEXT="Enterprise Edition Components" VSHIFT="-3">
 <node CREATED="1434292999965" ID="ID_640035149" LINK="https://www.youtube.com/watch?v=JrDT-PYhG20&amp;list=PLA57AAEA149003B30" MODIFIED="1474619937979" STYLE="bubble" TEXT="EJB 3.0">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -5063,7 +5200,7 @@ df.setRoundingMode(</font><font face="Consolas, Menlo, Monaco, Lucida Console, L
 <node CREATED="1442748899756" ID="ID_256956936" MODIFIED="1442748903531" TEXT="doPut"/>
 <node CREATED="1442748904564" ID="ID_1060121010" MODIFIED="1442748908522" TEXT="doDelete"/>
 </node>
-<node CREATED="1442695835908" ID="ID_609778460" LINK="https://www.youtube.com/watch?v=yzC4oDXfkl0" MODIFIED="1442747212349" TEXT="Understanding GET and POST">
+<node CREATED="1442695835908" ID="ID_609778460" LINK="https://www.youtube.com/watch?v=yzC4oDXfkl0" MODIFIED="1477076105675" TEXT="Understanding GET and POST">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -5430,7 +5567,7 @@ df.setRoundingMode(</font><font face="Consolas, Menlo, Monaco, Lucida Console, L
 <node CREATED="1434390492428" ID="ID_1827032660" MODIFIED="1474619937984" STYLE="bubble" TEXT="WebSockets">
 <node CREATED="1442750137302" ID="ID_1795770070" LINK="https://www.youtube.com/watch?v=bdFhsxOQRQ4&amp;list=PLPL7EKSrGoFfVzr6nG0j4QhKotjIpCNmR" MODIFIED="1442750143879" TEXT="Start with this"/>
 </node>
-<node CREATED="1434390499507" FOLDED="true" ID="ID_1818028102" MODIFIED="1442749103611" STYLE="bubble" TEXT="WebServices">
+<node CREATED="1434390499507" ID="ID_1818028102" MODIFIED="1477076101739" STYLE="bubble" TEXT="WebServices">
 <node CREATED="1435155392538" ID="ID_1964147399" LINK="https://www.youtube.com/watch?v=RuICubxGvj4&amp;list=PLqq-6Pq4lTTZh5U8RbdXq0WaYvZBz2rbn&amp;index=2" MODIFIED="1442588424239" TEXT="RESTful ">
 <arrowlink DESTINATION="ID_1964147399" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_930935661" STARTARROW="None" STARTINCLINATION="0;0;"/>
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_1964147399" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_930935661" SOURCE="ID_1964147399" STARTARROW="None" STARTINCLINATION="0;0;"/>
@@ -5450,7 +5587,7 @@ df.setRoundingMode(</font><font face="Consolas, Menlo, Monaco, Lucida Console, L
 <node CREATED="1435156971495" ID="ID_99955896" MODIFIED="1442747212350" TEXT="GET">
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_99955896" ENDARROW="Default" ENDINCLINATION="368;0;" ID="Arrow_ID_1647473502" SOURCE="ID_609778460" STARTARROW="None" STARTINCLINATION="368;0;"/>
 </node>
-<node CREATED="1435156975719" ID="ID_1096974072" MODIFIED="1442695871500" TEXT="POST">
+<node CREATED="1435156975719" ID="ID_1096974072" MODIFIED="1477076105675" TEXT="POST">
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_1096974072" ENDARROW="Default" ENDINCLINATION="392;0;" ID="Arrow_ID_28002548" SOURCE="ID_609778460" STARTARROW="None" STARTINCLINATION="392;0;"/>
 </node>
 <node CREATED="1435156981534" ID="ID_542872757" MODIFIED="1435156984973" TEXT="PUT"/>
@@ -5463,10 +5600,10 @@ df.setRoundingMode(</font><font face="Consolas, Menlo, Monaco, Lucida Console, L
 </node>
 </node>
 </node>
-<node CREATED="1441815449151" FOLDED="true" ID="ID_1862548939" LINK="https://www.youtube.com/playlist?list=PLS1QulWo1RIaAq9jt-tOCyhh6VpMZeosW" MODIFIED="1442749106456" TEXT="Java Mail API">
+<node CREATED="1441815449151" ID="ID_1862548939" LINK="https://www.youtube.com/playlist?list=PLS1QulWo1RIaAq9jt-tOCyhh6VpMZeosW" MODIFIED="1477075922127" TEXT="Java Mail API">
 <node CREATED="1441816362997" ID="ID_1984439796" MODIFIED="1441816369658" TEXT="Emails Types">
 <node CREATED="1441816370734" ID="ID_1519364180" MODIFIED="1441816432562" TEXT="POP (Post office protocol)"/>
-<node CREATED="1441816375846" ID="ID_1582920233" MODIFIED="1441816398377" TEXT="TLS (Transport Layer Sceurity)"/>
+<node CREATED="1441816375846" ID="ID_1582920233" MODIFIED="1477075932515" TEXT="TLS (Transport Layer Security)"/>
 <node CREATED="1441816380213" ID="ID_1183020687" MODIFIED="1441816411048" TEXT="SMTP (Simple Mail Transfer Protocol)"/>
 <node CREATED="1441816436246" ID="ID_1522293963" MODIFIED="1441816442538" TEXT="?domain?"/>
 </node>
@@ -5488,152 +5625,6 @@ df.setRoundingMode(</font><font face="Consolas, Menlo, Monaco, Lucida Console, L
 </node>
 <node COLOR="#0033ff" CREATED="1440621504808" HGAP="25" ID="ID_1293959028" MODIFIED="1440711484648" POSITION="right" TEXT="CMD" VSHIFT="-2">
 <icon BUILTIN="full-0"/>
-</node>
-<node CREATED="1457778881070" FOLDED="true" ID="ID_198167503" MODIFIED="1474622090623" POSITION="right" TEXT="Android">
-<icon BUILTIN="go"/>
-<node CREATED="1457778901614" ID="ID_1478773609" MODIFIED="1474619937986" TEXT="Setting up">
-<richcontent TYPE="NOTE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      -download and install java sdk
-    </p>
-    <p>
-      -download and install android studio
-    </p>
-    <p>
-      -run as an administrator -&gt; SDK Manager -&gt; Launch Standalone SDK Manager -&gt; Install Packages
-    </p>
-    <p>
-      --Install Intel x86 Emulator Accelerator (HAXM installer)
-    </p>
-    <p>
-      - close android studio and run once again as an admin
-    </p>
-    <p>
-      - Start a new Android Studio project
-    </p>
-    <p>
-      -- Set up Minimum SDK to API that can run on 100% of devices
-    </p>
-    <p>
-      -- Choose blank activity
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      -File -&gt; Project Strukture -&gt; choose SDK's paths
-    </p>
-    <p>
-      -Switch apptheme (optional)
-    </p>
-    <p>
-      -AVD Manager -&gt; Build one virtual device (might take a few minutes)
-    </p>
-    <p>
-      -Run application from main android studio page (green arrow)
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1457780915629" ID="ID_1843185796" LINK="http://stackoverflow.com/questions/29887722/error-rendering-problems-the-following-classes-could-not-be-found-android-suppo" MODIFIED="1474619931274" TEXT="Dealing with rendering problem">
-<richcontent TYPE="NOTE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Rendering problems when trying to change application theme:
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - Sudoz answer
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      or
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      - install all android SDK version from settings and try rendering on these (API 21 - Material.Light + delete &quot;tools:showIn=@layout/activity_main&quot; from the main xml file)
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1457863910673" ID="ID_1279443303" LINK="https://www.youtube.com/watch?v=XWk5hKmgAmE" MODIFIED="1457863923274" TEXT="Creating custom AVD"/>
-<node CREATED="1457893712032" ID="ID_1128145139" LINK="http://eclipsecolorthemes.org/?view=theme&amp;id=24587" MODIFIED="1457893722398" TEXT="Rainbow Theme"/>
-</node>
-<node CREATED="1457864922031" ID="ID_1424712455" MODIFIED="1474619931285" TEXT="Basics of android studio project">
-<richcontent TYPE="NOTE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Every activity consists of dwo parts:
-    </p>
-    <p>
-      - view part (the xml file activity_main.xml)
-    </p>
-    <p>
-      - brain part (java file MainActivity.java)
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      Two views of xml file:
-    </p>
-    <p>
-      -Design
-    </p>
-    <p>
-      -Text (here we are manipulating xml code to write a view)
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      AndroidManifest.xml:
-    </p>
-    <p>
-      -here we can add new activities
-    </p>
-    <p>
-      <i>&lt;category android:name=&quot;android.intent.category.LAUNCHER&quot; /&gt;</i>&#160; - APP STARTING POINT
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      strings.xml
-    </p>
-    <p>
-      we can store string constants here and use these in xml files
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1457867087633" ID="ID_1544927434" LINK="https://resources.jetbrains.com/assets/products/intellij-idea/IntelliJIDEA_ReferenceCard.pdf" MODIFIED="1457988129371" TEXT="Android Studio Shortcuts">
-<richcontent TYPE="NOTE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Double shift - searching file.
-    </p>
-  </body>
-</html></richcontent>
-</node>
 </node>
 </node>
 </map>

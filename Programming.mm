@@ -3064,7 +3064,7 @@ flanders.greet</pre>
 <node CREATED="1434710065758" ID="ID_1000968120" MODIFIED="1434710071471" TEXT="LAZY"/>
 </node>
 </node>
-<node CREATED="1434293510522" ID="ID_613539786" MODIFIED="1474619937926" STYLE="bubble" TEXT="GWT &amp; SmartGWT">
+<node CREATED="1434293510522" FOLDED="true" ID="ID_613539786" MODIFIED="1477169432362" STYLE="bubble" TEXT="GWT &amp; SmartGWT">
 <node CREATED="1441798239538" ID="ID_1847651346" MODIFIED="1474619937926" TEXT="Hiding unnecesary ScrollBars">
 <node CREATED="1441798255000" ID="ID_1816249595" MODIFIED="1441798267720" TEXT="window.setScrollbarSize(0);"/>
 </node>
@@ -3429,7 +3429,7 @@ flanders.greet</pre>
 <node CREATED="1434316641879" ID="ID_363901785" LINK="http://mvnrepository.com/" MODIFIED="1435248506579" STYLE="bubble" TEXT="http://mvnrepository.com/"/>
 <node CREATED="1435247074994" ID="ID_541023330" MODIFIED="1435248506580" STYLE="bubble" TEXT="Folder .m2 - kontener Mavena"/>
 </node>
-<node CREATED="1434303299084" ID="ID_753788184" MODIFIED="1474619937931" STYLE="bubble" TEXT="Google App Engine">
+<node CREATED="1434303299084" FOLDED="true" ID="ID_753788184" MODIFIED="1477169433161" STYLE="bubble" TEXT="Google App Engine">
 <node CREATED="1435234885653" FOLDED="true" ID="ID_783531058" LINK="https://www.youtube.com/watch?v=_P1wcF_XBlE" MODIFIED="1477076170699" TEXT="DataStore">
 <node CREATED="1435235705289" ID="ID_177775346" MODIFIED="1474619937934" TEXT="+">
 <node CREATED="1435235479017" ID="ID_999799983" MODIFIED="1435235487096" TEXT="Wysoka wydajno&#x15b;&#x107;"/>
@@ -4251,7 +4251,7 @@ flanders.greet</pre>
 </node>
 </node>
 </node>
-<node CREATED="1474622124383" ID="ID_1550305883" MODIFIED="1474622146028" TEXT="IReport (JasperReports)">
+<node CREATED="1474622124383" FOLDED="true" ID="ID_1550305883" MODIFIED="1477169435705" TEXT="IReport (JasperReports)">
 <node CREATED="1474622148398" ID="ID_970839146" MODIFIED="1474622163690" TEXT="config">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -4268,25 +4268,13 @@ flanders.greet</pre>
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1476652360120" ID="ID_161397638" MODIFIED="1476652365443" TEXT="cURL">
+<node CREATED="1476652360120" FOLDED="true" ID="ID_161397638" MODIFIED="1477169434769" TEXT="cURL">
 <node CREATED="1476652415058" ID="ID_707151584" LINK="http://stackoverflow.com/questions/9507353/how-do-i-install-set-up-and-use-curl-on-a-windows" MODIFIED="1476652422542" TEXT="config"/>
 </node>
-<node CREATED="1476653064076" ID="ID_1347470770" MODIFIED="1476653074789" TEXT="Usefull tools $ tricks">
+<node CREATED="1476653064076" FOLDED="true" ID="ID_1347470770" MODIFIED="1477169436625" TEXT="Usefull tools $ tricks">
 <node CREATED="1476653053878" ID="ID_666032523" LINK="http://idiotechie.com/how-to-use-cmd-prompt-inside-eclipse/" MODIFIED="1476653082853" TEXT="cmd in Eclipse"/>
 </node>
 <node CREATED="1476823835541" ID="ID_1206443686" MODIFIED="1476823902306" TEXT="Android">
-<node CREATED="1476823902308" ID="ID_41680169" MODIFIED="1477075865666" TEXT="Issues">
-<node CREATED="1476823844907" ID="ID_1780237459" MODIFIED="1476823860709" TEXT="Two different views in on listview"/>
-<node CREATED="1476823863067" ID="ID_506182687" MODIFIED="1476823872824" TEXT="Broadcasting"/>
-<node CREATED="1476823887979" ID="ID_97980954" MODIFIED="1476823895009" TEXT="Fetching images"/>
-<node CREATED="1476916925150" ID="ID_329284524" MODIFIED="1476916928408" TEXT="Google maps"/>
-<node CREATED="1476916929270" ID="ID_1944990665" MODIFIED="1476916941167" TEXT="Invoking fragment inside fragment"/>
-<node CREATED="1477001238617" ID="ID_140270385" MODIFIED="1477075884888" TEXT="Image fullsize view with resizing"/>
-<node CREATED="1477001245960" ID="ID_197005379" MODIFIED="1477001266586" TEXT="Horizontal list view"/>
-<node CREATED="1477001268896" ID="ID_1097158559" MODIFIED="1477001288113" TEXT="Fixing list view size in Scroll view using custom util method"/>
-<node CREATED="1477075818759" ID="ID_321078078" MODIFIED="1477075840382" TEXT="SQLite base DB Helper"/>
-<node CREATED="1477075847042" ID="ID_210448236" MODIFIED="1477075856165" TEXT="Slider with custom data"/>
-</node>
 <node CREATED="1476823910068" ID="ID_1823772261" MODIFIED="1476823918721" TEXT="Usefull libraries">
 <node CREATED="1476823920107" ID="ID_966944669" MODIFIED="1477075909837" TEXT="Google GSon"/>
 <node CREATED="1476823924426" ID="ID_657322650" MODIFIED="1476823926153" TEXT="Ion"/>
@@ -4337,8 +4325,7 @@ flanders.greet</pre>
       -Run application from main android studio page (green arrow)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1457780915629" ID="ID_1843185796" LINK="http://stackoverflow.com/questions/29887722/error-rendering-problems-the-following-classes-could-not-be-found-android-suppo" MODIFIED="1474619931274" TEXT="Dealing with rendering problem">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -4434,6 +4421,18 @@ flanders.greet</pre>
     </p>
   </body>
 </html></richcontent>
+</node>
+<node CREATED="1476823902308" ID="ID_41680169" MODIFIED="1477075865666" TEXT="Issues">
+<node CREATED="1476823844907" ID="ID_1780237459" MODIFIED="1476823860709" TEXT="Two different views in on listview"/>
+<node CREATED="1476823863067" ID="ID_506182687" MODIFIED="1476823872824" TEXT="Broadcasting"/>
+<node CREATED="1476823887979" ID="ID_97980954" MODIFIED="1476823895009" TEXT="Fetching images"/>
+<node CREATED="1476916925150" ID="ID_329284524" MODIFIED="1476916928408" TEXT="Google maps"/>
+<node CREATED="1476916929270" ID="ID_1944990665" MODIFIED="1476916941167" TEXT="Invoking fragment inside fragment"/>
+<node CREATED="1477001238617" ID="ID_140270385" MODIFIED="1477075884888" TEXT="Image fullsize view with resizing"/>
+<node CREATED="1477001245960" ID="ID_197005379" MODIFIED="1477001266586" TEXT="Horizontal list view"/>
+<node CREATED="1477001268896" ID="ID_1097158559" MODIFIED="1477001288113" TEXT="Fixing list view size in Scroll view using custom util method"/>
+<node CREATED="1477075818759" ID="ID_321078078" MODIFIED="1477075840382" TEXT="SQLite base DB Helper"/>
+<node CREATED="1477075847042" ID="ID_210448236" MODIFIED="1477075856165" TEXT="Slider with custom data"/>
 </node>
 </node>
 </node>

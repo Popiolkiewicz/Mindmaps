@@ -4433,6 +4433,7 @@ flanders.greet</pre>
 <node CREATED="1477001268896" ID="ID_1097158559" MODIFIED="1477001288113" TEXT="Fixing list view size in Scroll view using custom util method"/>
 <node CREATED="1477075818759" ID="ID_321078078" MODIFIED="1477075840382" TEXT="SQLite base DB Helper"/>
 <node CREATED="1477075847042" ID="ID_210448236" MODIFIED="1477075856165" TEXT="Slider with custom data"/>
+<node CREATED="1477341201634" ID="ID_941999666" MODIFIED="1477341210401" TEXT="ViewHolder pattern for ListView"/>
 </node>
 </node>
 </node>
